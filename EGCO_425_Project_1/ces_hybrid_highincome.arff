@@ -1,0 +1,1002 @@
+@relation 'ces_hybrid-weka.filters.unsupervised.attribute.Remove-R1-21-weka.filters.unsupervised.instance.SubsetByExpression-E(ATT1 = 1) or (ATT2 = 1)'
+
+@attribute Income_25_to_43 numeric
+@attribute Income_above_43 numeric
+@attribute acai_berry {0,1}
+@attribute acai_berry_pulp {0,1}
+@attribute ajinomoto_sauce {0,1}
+@attribute alphabet_pasta {0,1}
+@attribute amazon_papaya {0,1}
+@attribute anchovy {0,1}
+@attribute anjou_pear {0,1}
+@attribute annatto {0,1}
+@attribute argentinian_apple {0,1}
+@attribute arrowroot_powder {0,1}
+@attribute asparagus {0,1}
+@attribute assorted_candies {0,1}
+@attribute atlantic_seabob_shrimp {0,1}
+@attribute aubergine {0,1}
+@attribute avocado {0,1}
+@attribute baby_potato {0,1}
+@attribute bacon {0,1}
+@attribute bahia_beans {0,1}
+@attribute banana {0,1}
+@attribute banana_other_kind {0,1}
+@attribute basella {0,1}
+@attribute basil {0,1}
+@attribute battered_beef {0,1}
+@attribute battered_chicken_breast {0,1}
+@attribute battered_chicken_drumstick {0,1}
+@attribute battered_chicken_fillets {0,1}
+@attribute battered_chicken_tapas {0,1}
+@attribute battered_chicken_wings {0,1}
+@attribute battered_whiting_fish_fillets {0,1}
+@attribute bay_leaf {0,1}
+@attribute bbq_sauce {0,1}
+@attribute bean_sprouts {0,1}
+@attribute beans_other_kind {0,1}
+@attribute beef_breast {0,1}
+@attribute beef_brisket {0,1}
+@attribute beef_broth {0,1}
+@attribute beef_burger {0,1}
+@attribute beef_chunk {0,1}
+@attribute beef_flank {0,1}
+@attribute beef_foot {0,1}
+@attribute beef_fore_rib {0,1}
+@attribute beef_heart {0,1}
+@attribute beef_hump {0,1}
+@attribute beef_liver {0,1}
+@attribute beef_meatballs {0,1}
+@attribute beef_meatballs_in_tomato_sauce {0,1}
+@attribute beef_medallion {0,1}
+@attribute beef_mince {0,1}
+@attribute beef_mince_selection {0,1}
+@attribute beef_muscle {0,1}
+@attribute beef_offal {0,1}
+@attribute beef_other_cuts {0,1}
+@attribute beef_other_cuts_selection {0,1}
+@attribute beef_rib {0,1}
+@attribute beef_rump {0,1}
+@attribute beef_rump_cap {0,1}
+@attribute beef_shank {0,1}
+@attribute beef_silverside {0,1}
+@attribute beef_sirloin {0,1}
+@attribute beef_skewers {0,1}
+@attribute beef_tail {0,1}
+@attribute beef_tenderloin {0,1}
+@attribute beef_tenderloin_with_sauce {0,1}
+@attribute beef_thick_flank {0,1}
+@attribute beef_tongue {0,1}
+@attribute beef_tripe {0,1}
+@attribute beer_bottle {0,1}
+@attribute beer_bottle_imported {0,1}
+@attribute beer_can {0,1}
+@attribute beer_can_imported {0,1}
+@attribute beer_snacks {0,1}
+@attribute beetroot {0,1}
+@attribute bicarbonate_of_soda {0,1}
+@attribute black_beans {0,1}
+@attribute black_eyed_beans {0,1}
+@attribute black_grapes {0,1}
+@attribute black_olives {0,1}
+@attribute black_pepper {0,1}
+@attribute black_pudding {0,1}
+@attribute black_tea {0,1}
+@attribute blue_cheese {0,1}
+@attribute bolivian_clam {0,1}
+@attribute bongiorno_biscuits {0,1}
+@attribute borlotti_beans {0,1}
+@attribute brandy_drink {0,1}
+@attribute brandy_drink_imported {0,1}
+@attribute brazilian_pumpkin {0,1}
+@attribute breadcrumbs {0,1}
+@attribute broccoli {0,1}
+@attribute brown_rice {0,1}
+@attribute brown_sugar {0,1}
+@attribute brussels_sprouts {0,1}
+@attribute bubblegum {0,1}
+@attribute buffalo_mozzarella_cheese {0,1}
+@attribute burger_bread_rolls {0,1}
+@attribute butter {0,1}
+@attribute butter_biscuits {0,1}
+@attribute cabbage {0,1}
+@attribute cake {0,1}
+@attribute cake_dough {0,1}
+@attribute calabrese_salami {0,1}
+@attribute calamari {0,1}
+@attribute camembert_cheese {0,1}
+@attribute campari_herb_liqueur {0,1}
+@attribute campari_herb_liqueur_imported {0,1}
+@attribute canjica {0,1}
+@attribute canned_asparagus {0,1}
+@attribute canned_beef_meat {0,1}
+@attribute canned_brazilian_feijoada {0,1}
+@attribute canned_cherries {0,1}
+@attribute canned_dried_plums {0,1}
+@attribute canned_fruit_salad {0,1}
+@attribute canned_green_corn {0,1}
+@attribute canned_ham {0,1}
+@attribute canned_hearts_of_palm {0,1}
+@attribute canned_mixed_vegetables {0,1}
+@attribute canned_mushrooms {0,1}
+@attribute canned_olives {0,1}
+@attribute canned_peas {0,1}
+@attribute canned_portuguese_sardine_with_olive_oil {0,1}
+@attribute canned_portuguese_sardine_with_soy_oil {0,1}
+@attribute canned_sardine {0,1}
+@attribute canned_sausage {0,1}
+@attribute canned_strawberries_in_syrup {0,1}
+@attribute canned_tuna_fish {0,1}
+@attribute cannelloni_pasta {0,1}
+@attribute cappuccino {0,1}
+@attribute carrot {0,1}
+@attribute cashew_candy {0,1}
+@attribute cashew_fruit {0,1}
+@attribute cashew_pulp {0,1}
+@attribute cassava {0,1}
+@attribute cassava_flour {0,1}
+@attribute cassava_powder {0,1}
+@attribute cassava_powder_sweet {0,1}
+@attribute catfish {0,1}
+@attribute cauliflower {0,1}
+@attribute cavendish_banana {0,1}
+@attribute celery {0,1}
+@attribute cereal_flakes {0,1}
+@attribute cereal_flakes_nestle {0,1}
+@attribute chamomile {0,1}
+@attribute chamomile_tea {0,1}
+@attribute champagne {0,1}
+@attribute chard {0,1}
+@attribute chayote {0,1}
+@attribute cheddar_cheese {0,1}
+@attribute cheese_bread {0,1}
+@attribute cheese_for_fondue {0,1}
+@attribute cheese_other_kind {0,1}
+@attribute chest_bread {0,1}
+@attribute chicken_alive {0,1}
+@attribute chicken_breast {0,1}
+@attribute chicken_breast_fillet {0,1}
+@attribute chicken_breast_marinade {0,1}
+@attribute chicken_breast_mixed_herbs_marinade {0,1}
+@attribute chicken_burger {0,1}
+@attribute chicken_carcass {0,1}
+@attribute chicken_croquettes {0,1}
+@attribute chicken_drumstick {0,1}
+@attribute chicken_drumstick_marinade {0,1}
+@attribute chicken_drumstick_mixed_herbs_marinade {0,1}
+@attribute chicken_fillets {0,1}
+@attribute chicken_gizzard {0,1}
+@attribute chicken_heart {0,1}
+@attribute chicken_leg {0,1}
+@attribute chicken_leg_marinade {0,1}
+@attribute chicken_legs {0,1}
+@attribute chicken_liver {0,1}
+@attribute chicken_liver_pate {0,1}
+@attribute chicken_meatballs {0,1}
+@attribute chicken_medallion {0,1}
+@attribute chicken_nuggets {0,1}
+@attribute chicken_nuggets_with_sauce {0,1}
+@attribute chicken_pastry_pie {0,1}
+@attribute chicken_pie {0,1}
+@attribute chicken_skewers {0,1}
+@attribute chicken_wings {0,1}
+@attribute chickpeas {0,1}
+@attribute chicory {0,1}
+@attribute chilean_clam {0,1}
+@attribute chilli_green_olives {0,1}
+@attribute chilli_sauce {0,1}
+@attribute chocolate_bar {0,1}
+@attribute chocolate_milk {0,1}
+@attribute chocolate_pieces {0,1}
+@attribute chocolate_powder {0,1}
+@attribute chocolate_sprinkles {0,1}
+@attribute chocolate_stick_biscuits {0,1}
+@attribute chocolate_truffle {0,1}
+@attribute chopped_turkey {0,1}
+@attribute cider_drink {0,1}
+@attribute cider_drink_imported {0,1}
+@attribute cinnamon {0,1}
+@attribute cinnamon_sticks {0,1}
+@attribute clam {0,1}
+@attribute cleaned_sardine {0,1}
+@attribute cloves {0,1}
+@attribute coarse_sea_salt {0,1}
+@attribute cocoa_pulp {0,1}
+@attribute coconut {0,1}
+@attribute coconut_butter {0,1}
+@attribute coconut_candy {0,1}
+@attribute coconut_milk {0,1}
+@attribute coconut_water {0,1}
+@attribute codfish {0,1}
+@attribute codfish_fillets {0,1}
+@attribute codfish_loin {0,1}
+@attribute coffee {0,1}
+@attribute concentrate_guarana {0,1}
+@attribute concentrate_mate_herb_tea {0,1}
+@attribute condensed_milk {0,1}
+@attribute cooked_black_beans_with_sauce {0,1}
+@attribute cooked_pinto_beans_with_sauce {0,1}
+@attribute cooked_turkey_ham {0,1}
+@attribute cookies {0,1}
+@attribute coriander {0,1}
+@attribute corn_bread {0,1}
+@attribute corn_cake {0,1}
+@attribute corn_cream {0,1}
+@attribute corn_oil {0,1}
+@attribute corn_on_the_cob {0,1}
+@attribute cornflour {0,1}
+@attribute cornflour_biscuits {0,1}
+@attribute cornmeal_baguette {0,1}
+@attribute corvina_fish {0,1}
+@attribute corvina_fish_fillets {0,1}
+@attribute cottonseed_oil {0,1}
+@attribute courgette {0,1}
+@attribute crab {0,1}
+@attribute crab_legs {0,1}
+@attribute crayfish {0,1}
+@attribute cream_cracker_biscuits {0,1}
+@attribute cream_sauce {0,1}
+@attribute creamy_catupiry_cheese {0,1}
+@attribute creamy_white_cheese {0,1}
+@attribute creamy_white_cheese_light {0,1}
+@attribute crisphead_lettuce {0,1}
+@attribute croquettes_mix {0,1}
+@attribute cucumber {0,1}
+@attribute cumin {0,1}
+@attribute cupuacu_fruit {0,1}
+@attribute cupuacu_pulp {0,1}
+@attribute curd {0,1}
+@attribute curly_lettuce {0,1}
+@attribute curry {0,1}
+@attribute cut_cabbage {0,1}
+@attribute decaffeinated_coffee {0,1}
+@attribute devil_fish {0,1}
+@attribute dextro_energy {0,1}
+@attribute diet_coke_bottle {0,1}
+@attribute diet_soda {0,1}
+@attribute digestives_biscuit {0,1}
+@attribute donuts {0,1}
+@attribute dried_coconut {0,1}
+@attribute dried_fruit_mix {0,1}
+@attribute dried_peas {0,1}
+@attribute dried_plum_in_syrup {0,1}
+@attribute dried_shrimp {0,1}
+@attribute duck {0,1}
+@attribute durian {0,1}
+@attribute edam_cheese {0,1}
+@attribute eddoes {0,1}
+@attribute egg {0,1}
+@attribute eggplant {0,1}
+@attribute endive {0,1}
+@attribute english_curry {0,1}
+@attribute escalope_of_beef {0,1}
+@attribute eviscerated_squid {0,1}
+@attribute extra_fine_green_beans {0,1}
+@attribute fennel {0,1}
+@attribute ferrero_rocher_pieces {0,1}
+@attribute fig {0,1}
+@attribute fig_pieces_in_syrup {0,1}
+@attribute fish_fingers {0,1}
+@attribute flavoured_microwave_popcorn {0,1}
+@attribute flavoured_milk {0,1}
+@attribute flavoured_natural_yogurt {0,1}
+@attribute flavoured_popping_corn {0,1}
+@attribute flounder_fish {0,1}
+@attribute flounder_fish_fillets {0,1}
+@attribute flour {0,1}
+@attribute four_cheese_pie {0,1}
+@attribute french_bread {0,1}
+@attribute french_fries {0,1}
+@attribute french_fries_imported {0,1}
+@attribute french_toast {0,1}
+@attribute french_vinegar {0,1}
+@attribute frog_meat {0,1}
+@attribute frozen_cannelloni {0,1}
+@attribute frozen_cassava_sticks {0,1}
+@attribute frozen_cheese_snacks {0,1}
+@attribute frozen_chicken {0,1}
+@attribute frozen_chicken_stroganoff {0,1}
+@attribute frozen_chicken_with_sauce {0,1}
+@attribute frozen_codfish_snacks {0,1}
+@attribute frozen_conchiglie {0,1}
+@attribute frozen_fish_fillets {0,1}
+@attribute frozen_food_mix {0,1}
+@attribute frozen_gnocchi {0,1}
+@attribute frozen_lasagna {0,1}
+@attribute frozen_pizza {0,1}
+@attribute frozen_potato {0,1}
+@attribute frozen_ravioli {0,1}
+@attribute frozen_spaghetti_bolognese {0,1}
+@attribute frozen_special_chicken_with_sauce {0,1}
+@attribute frozen_stroganoff {0,1}
+@attribute frozen_yogurt {0,1}
+@attribute fruit_juice {0,1}
+@attribute fruit_liqueur {0,1}
+@attribute fruit_liqueur_imported {0,1}
+@attribute fruit_tea {0,1}
+@attribute fruits_tea_soft_drink {0,1}
+@attribute fuji_apple {0,1}
+@attribute funny_biscuits {0,1}
+@attribute gala_apple {0,1}
+@attribute garlic {0,1}
+@attribute garlic_sauce {0,1}
+@attribute gatorade {0,1}
+@attribute gelled_milk {0,1}
+@attribute gherkin_cucumber {0,1}
+@attribute giant_sea_bass_fish {0,1}
+@attribute gin_drink {0,1}
+@attribute glucose_syrup {0,1}
+@attribute gluten_free_bread {0,1}
+@attribute gluten_free_toast {0,1}
+@attribute gnocchi_pasta {0,1}
+@attribute goat_meat {0,1}
+@attribute golden_apple {0,1}
+@attribute gouda_cheese {0,1}
+@attribute granulated_sugar {0,1}
+@attribute granulated_sweetener {0,1}
+@attribute grape_pulp {0,1}
+@attribute grated_coconut {0,1}
+@attribute grated_parmesan_cheese {0,1}
+@attribute gray_shrimp {0,1}
+@attribute green_beans {0,1}
+@attribute green_collard {0,1}
+@attribute green_grapes {0,1}
+@attribute green_olives {0,1}
+@attribute guanabana_pulp {0,1}
+@attribute guava {0,1}
+@attribute guava_candy {0,1}
+@attribute guava_pulp {0,1}
+@attribute guitarfish_fillets {0,1}
+@attribute gungo_peas {0,1}
+@attribute hake_fillets {0,1}
+@attribute ham {0,1}
+@attribute ham_and_cheese_pie {0,1}
+@attribute ham_pate {0,1}
+@attribute hamlin_orange {0,1}
+@attribute headless_shrimp {0,1}
+@attribute hearts_of_palm_pie {0,1}
+@attribute honey {0,1}
+@attribute hot_dog_bread_rolls {0,1}
+@attribute hydroponic_lettuce {0,1}
+@attribute ice_cream {0,1}
+@attribute ice_cream_bar {0,1}
+@attribute ice_cream_reduced_fat {0,1}
+@attribute instant_coffee {0,1}
+@attribute italian_bread {0,1}
+@attribute italian_grapes {0,1}
+@attribute italian_mortadella {0,1}
+@attribute jackfruit {0,1}
+@attribute jam {0,1}
+@attribute jam_no_added_sugar {0,1}
+@attribute japanese_cucumber {0,1}
+@attribute japanese_food_kit {0,1}
+@attribute japanese_grapes {0,1}
+@attribute japanese_rice {0,1}
+@attribute jelly {0,1}
+@attribute jelly_powder {0,1}
+@attribute juice_powder {0,1}
+@attribute juice_powder_sugarfree {0,1}
+@attribute kale {0,1}
+@attribute ketchup {0,1}
+@attribute ketchup_imported {0,1}
+@attribute kibbeh {0,1}
+@attribute kidney_beans {0,1}
+@attribute king_prawns {0,1}
+@attribute kiwi {0,1}
+@attribute lactofree_milk {0,1}
+@attribute lamb_meat {0,1}
+@attribute lard {0,1}
+@attribute lasagna_pasta {0,1}
+@attribute latundan_banana {0,1}
+@attribute leek {0,1}
+@attribute lentils {0,1}
+@attribute lettuce {0,1}
+@attribute light_margarine_spread {0,1}
+@attribute light_microwave_popcorn {0,1}
+@attribute light_toast {0,1}
+@attribute lima_beans {0,1}
+@attribute lime {0,1}
+@attribute lindt_chocolate {0,1}
+@attribute liquid_sweetener {0,1}
+@attribute lobster {0,1}
+@attribute long_life_milk {0,1}
+@attribute long_neck_beer {0,1}
+@attribute macaroni {0,1}
+@attribute macaroni_for_soup {0,1}
+@attribute mackerel {0,1}
+@attribute mahi_mahi_fish {0,1}
+@attribute mahi_mahi_fish_fillets {0,1}
+@attribute mangaba_pulp {0,1}
+@attribute mango {0,1}
+@attribute mango_pulp {0,1}
+@attribute manjuba_fish {0,1}
+@attribute maria_mole_dessert {0,1}
+@attribute marron_glace {0,1}
+@attribute martini {0,1}
+@attribute mate_herb {0,1}
+@attribute mate_herb_tea {0,1}
+@attribute maxburger {0,1}
+@attribute mayonnaise {0,1}
+@attribute mayonnaise_imported {0,1}
+@attribute meat_mix {0,1}
+@attribute meat_pate {0,1}
+@attribute meat_tenderizer {0,1}
+@attribute melon {0,1}
+@attribute melon_pulp {0,1}
+@attribute microwave_popcorn {0,1}
+@attribute milk {0,1}
+@attribute milk_and_cereal_biscuits {0,1}
+@attribute milk_dessert {0,1}
+@attribute milk_drink {0,1}
+@attribute milk_in_plastic_bag_category_A {0,1}
+@attribute milk_in_plastic_bag_category_B {0,1}
+@attribute milk_in_plastic_bag_category_C {0,1}
+@attribute milk_powder {0,1}
+@attribute milk_pudding_for_kids {0,1}
+@attribute milky_meal {0,1}
+@attribute minas_cheese {0,1}
+@attribute minas_cheese_light {0,1}
+@attribute mineral_water {0,1}
+@attribute mini_banana {0,1}
+@attribute mini_cake {0,1}
+@attribute mini_kibbeh {0,1}
+@attribute mini_pies {0,1}
+@attribute mini_salt_grinder {0,1}
+@attribute minipizza {0,1}
+@attribute mint {0,1}
+@attribute mixed_biscuits {0,1}
+@attribute mixed_fuit_juice {0,1}
+@attribute mixed_herbs {0,1}
+@attribute mixed_oil {0,1}
+@attribute mixed_vegetables_with_mayonnaise {0,1}
+@attribute mombin {0,1}
+@attribute mombin_pulp {0,1}
+@attribute mozzarella_cheese {0,1}
+@attribute mushroom {0,1}
+@attribute mussel_meat {0,1}
+@attribute mustard_imported {0,1}
+@attribute mustard_tube {0,1}
+@attribute namorado_fish {0,1}
+@attribute namorado_fish_fillets {0,1}
+@attribute natal_orange {0,1}
+@attribute natural_yogurt {0,1}
+@attribute natural_yogurt_with_honey {0,1}
+@attribute niagara_grapes {0,1}
+@attribute nidex_baby_sugar_nestle {0,1}
+@attribute noodles {0,1}
+@attribute nutmeg_ground {0,1}
+@attribute nutmeg_whole {0,1}
+@attribute oat_bread {0,1}
+@attribute oat_fiber_bread {0,1}
+@attribute oat_flakes {0,1}
+@attribute okra {0,1}
+@attribute olive_oil {0,1}
+@attribute onion {0,1}
+@attribute orange {0,1}
+@attribute orange_candy {0,1}
+@attribute orange_juice {0,1}
+@attribute oregano {0,1}
+@attribute other_fishes {0,1}
+@attribute other_fruits_pulp {0,1}
+@attribute other_meat {0,1}
+@attribute oyster {0,1}
+@attribute palm_oil {0,1}
+@attribute papaya {0,1}
+@attribute papaya_pulp {0,1}
+@attribute paprika {0,1}
+@attribute parboiled_rice {0,1}
+@attribute parboiled_rice_with_sauce {0,1}
+@attribute parmesan_cheese {0,1}
+@attribute parsley {0,1}
+@attribute parsley_and_chive {0,1}
+@attribute parsnip {0,1}
+@attribute passion_fruit {0,1}
+@attribute passion_fruit_pulp {0,1}
+@attribute pastry {0,1}
+@attribute peach {0,1}
+@attribute peach_imported {0,1}
+@attribute peach_pieces_in_syrup {0,1}
+@attribute peach_pulp {0,1}
+@attribute peanut_brittle {0,1}
+@attribute peanut_candy {0,1}
+@attribute pear {0,1}
+@attribute peas {0,1}
+@attribute peeled_prawns {0,1}
+@attribute penne_pasta {0,1}
+@attribute pepper {0,1}
+@attribute pepper_sauce {0,1}
+@attribute perrier_mineral_water {0,1}
+@attribute persimmon {0,1}
+@attribute petit_suisse_cheese {0,1}
+@attribute pickle {0,1}
+@attribute pineapple {0,1}
+@attribute pineapple_pieces_in_syrup {0,1}
+@attribute pineapple_pulp {0,1}
+@attribute pink_shrimp {0,1}
+@attribute pinto_beans {0,1}
+@attribute pizza_dough {0,1}
+@attribute plantain {0,1}
+@attribute plum {0,1}
+@attribute plum_cake {0,1}
+@attribute plum_imported {0,1}
+@attribute polenghi_cheese {0,1}
+@attribute polenta {0,1}
+@attribute popping_corn {0,1}
+@attribute pork_boneless_leg_joint {0,1}
+@attribute pork_fillet {0,1}
+@attribute pork_liver_pate {0,1}
+@attribute pork_loin {0,1}
+@attribute pork_loin_with_sauce {0,1}
+@attribute pork_luncheon_meat {0,1}
+@attribute pork_offal {0,1}
+@attribute pork_rib {0,1}
+@attribute pork_sausage {0,1}
+@attribute pork_tenderloin {0,1}
+@attribute portuguese_pear {0,1}
+@attribute potato {0,1}
+@attribute potato_bread {0,1}
+@attribute potato_candy {0,1}
+@attribute potato_sticks {0,1}
+@attribute powdered_chocolate {0,1}
+@attribute powdered_jelly {0,1}
+@attribute powdered_whipped_squirty_cream {0,1}
+@attribute prawns_pie {0,1}
+@attribute provolone_cheese {0,1}
+@attribute pudding {0,1}
+@attribute pudding_powder {0,1}
+@attribute pudding_powder_diet {0,1}
+@attribute pudding_reduced_fat {0,1}
+@attribute pumpkin {0,1}
+@attribute pumpkin_and_coconut_candy {0,1}
+@attribute pumpkin_candy {0,1}
+@attribute quail_eggs {0,1}
+@attribute rabbit_meat {0,1}
+@attribute radish {0,1}
+@attribute rapeseed_oil {0,1}
+@attribute raw_peanuts {0,1}
+@attribute red_beans {0,1}
+@attribute red_cabbage {0,1}
+@attribute red_globe_grapes {0,1}
+@attribute red_grapes {0,1}
+@attribute red_pepper {0,1}
+@attribute reduced_sodium_salt {0,1}
+@attribute rice_cream {0,1}
+@attribute rice_oil {0,1}
+@attribute rice_other_kind {0,1}
+@attribute risoles_pastry {0,1}
+@attribute roast_chicken {0,1}
+@attribute rooster {0,1}
+@attribute roquefort_cheese {0,1}
+@attribute rum_drink {0,1}
+@attribute rum_drink_imported {0,1}
+@attribute russian_cheese {0,1}
+@attribute rye_bread {0,1}
+@attribute rye_toast {0,1}
+@attribute salami {0,1}
+@attribute salmon {0,1}
+@attribute salt {0,1}
+@attribute salt_biscuits {0,1}
+@attribute salt_stick_biscuits {0,1}
+@attribute salted_pork_ears {0,1}
+@attribute salted_pork_hook {0,1}
+@attribute salted_pork_rib {0,1}
+@attribute salted_pork_tenderloin {0,1}
+@attribute samosas {0,1}
+@attribute samosas_pasta {0,1}
+@attribute sandwich_cookies {0,1}
+@attribute sardine {0,1}
+@attribute sardine_fillets {0,1}
+@attribute sardine_special {0,1}
+@attribute sauce_for_beans {0,1}
+@attribute sauce_for_meat {0,1}
+@attribute sausage {0,1}
+@attribute saveloy {0,1}
+@attribute sazon_sauce {0,1}
+@attribute school_lunch {0,1}
+@attribute sea_bass {0,1}
+@attribute sea_bass_fillets {0,1}
+@attribute seafood_sticks {0,1}
+@attribute semi_skimmed_milk {0,1}
+@attribute sesame_oil {0,1}
+@attribute sesame_sauce {0,1}
+@attribute shake {0,1}
+@attribute skimmed_milk {0,1}
+@attribute skimmed_milk_powder {0,1}
+@attribute skimmed_natural_yogurt {0,1}
+@attribute sliced_bread {0,1}
+@attribute sliced_cheddar_cheese {0,1}
+@attribute sliced_mozzarella_cheese {0,1}
+@attribute sliced_provolone_cheese {0,1}
+@attribute slim_salt {0,1}
+@attribute small_pizza_dough {0,1}
+@attribute smoked_bacon {0,1}
+@attribute smoked_beef_tongue {0,1}
+@attribute smoked_chicken {0,1}
+@attribute smoked_pork_foreleg {0,1}
+@attribute smoked_pork_hook {0,1}
+@attribute smoked_pork_rib {0,1}
+@attribute smoked_pork_tenderloin {0,1}
+@attribute smoked_salmon {0,1}
+@attribute smoked_turkey_breast {0,1}
+@attribute smoked_turkey_ham {0,1}
+@attribute smoked_turkey_leg {0,1}
+@attribute snacks {0,1}
+@attribute soda {0,1}
+@attribute soda_bottle {0,1}
+@attribute soda_bottle_large {0,1}
+@attribute soda_bottle_medium {0,1}
+@attribute soda_bottle_small {0,1}
+@attribute soda_can {0,1}
+@attribute soft_shell_crab_meat {0,1}
+@attribute soft_white_bread {0,1}
+@attribute sorubim_fish {0,1}
+@attribute soup {0,1}
+@attribute soup_for_toddlers {0,1}
+@attribute soy_milk {0,1}
+@attribute soy_oil {0,1}
+@attribute soy_puree {0,1}
+@attribute soy_sauce {0,1}
+@attribute sparkling_mineral_water {0,1}
+@attribute special_chicken_breast {0,1}
+@attribute special_chicken_burguer {0,1}
+@attribute special_chicken_leg {0,1}
+@attribute special_chicken_meatballs {0,1}
+@attribute special_chicken_roast {0,1}
+@attribute special_chicken_smoked_breast {0,1}
+@attribute spinach {0,1}
+@attribute spread_cheese {0,1}
+@attribute spread_margarine {0,1}
+@attribute steinhager_drink {0,1}
+@attribute strawberries {0,1}
+@attribute strawberries_pulp {0,1}
+@attribute strawberry_drink_milk {0,1}
+@attribute sugar {0,1}
+@attribute sugarcane_liquor {0,1}
+@attribute sugarcane_sweet {0,1}
+@attribute sugarcane_syrup {0,1}
+@attribute sun_dried_flank {0,1}
+@attribute sun_dried_ham {0,1}
+@attribute sun_dried_meat {0,1}
+@attribute sun_dried_silverside {0,1}
+@attribute sun_dried_topside {0,1}
+@attribute sunflower_oil {0,1}
+@attribute surinam_cherry_pulp {0,1}
+@attribute sweet_bread {0,1}
+@attribute sweet_lime {0,1}
+@attribute sweet_potato {0,1}
+@attribute sweet_stick_biscuits {0,1}
+@attribute sweetened_cappuccino {0,1}
+@attribute sweetener {0,1}
+@attribute sweetener_tablets {0,1}
+@attribute swiss_roll {0,1}
+@attribute syrian_flatbread {0,1}
+@attribute syrian_flatbread_organic {0,1}
+@attribute tabasco_sauce {0,1}
+@attribute tagliatelle_pasta {0,1}
+@attribute tangerine {0,1}
+@attribute tangerine_pulp {0,1}
+@attribute tapioca {0,1}
+@attribute tartare_sauce {0,1}
+@attribute tea_biscuits {0,1}
+@attribute thompson_seedless_grapes {0,1}
+@attribute toddler_cereal {0,1}
+@attribute toddler_milk_powder {0,1}
+@attribute tomato {0,1}
+@attribute tomato_pulp {0,1}
+@attribute tomato_puree {0,1}
+@attribute tomato_sauce {0,1}
+@attribute true_oyster {0,1}
+@attribute tuna_fish {0,1}
+@attribute turkey {0,1}
+@attribute turkey_burger {0,1}
+@attribute turkey_meatballs {0,1}
+@attribute turnip {0,1}
+@attribute uncle_benns_sauce {0,1}
+@attribute usa_fruit_juice {0,1}
+@attribute vanilla {0,1}
+@attribute vegetables_mix {0,1}
+@attribute vegetables_pie {0,1}
+@attribute vienna_sausage {0,1}
+@attribute vinegar {0,1}
+@attribute vitamin {0,1}
+@attribute vitamin_powder {0,1}
+@attribute vodka {0,1}
+@attribute vodka_imported {0,1}
+@attribute waffer_biscuit {0,1}
+@attribute watercress {0,1}
+@attribute watermelon {0,1}
+@attribute west_indian_cherry {0,1}
+@attribute west_indian_cherry_pulp {0,1}
+@attribute wheat_flour_special {0,1}
+@attribute wheat_flour_with_yeast {0,1}
+@attribute wheat_for_kibbeh {0,1}
+@attribute whipped_cream {0,1}
+@attribute whipped_cream_reduced_fat {0,1}
+@attribute whisky {0,1}
+@attribute whisky_imported {0,1}
+@attribute white_beans {0,1}
+@attribute white_rice {0,1}
+@attribute white_rolls_bread {0,1}
+@attribute white_sauce {0,1}
+@attribute white_split_tin_bread {0,1}
+@attribute whiting_fish {0,1}
+@attribute whiting_fish_fillets {0,1}
+@attribute whole_oats {0,1}
+@attribute whole_wheat_flour {0,1}
+@attribute wholegrain_mustard {0,1}
+@attribute wholegrain_rice {0,1}
+@attribute wholemeal_bread {0,1}
+@attribute wholemeal_toast {0,1}
+@attribute wholemeal_wheat_bread {0,1}
+@attribute wine {0,1}
+@attribute wine_imported {0,1}
+@attribute yakult {0,1}
+@attribute yam {0,1}
+@attribute yeast {0,1}
+@attribute yellow_mustard {0,1}
+@attribute yellow_pepper {0,1}
+@attribute yogurt_with_fruit_pieces {0,1}
+@attribute yogurt_with_honey {0,1}
+
+@data
+{0 1,45 1,72 1,73 1,77 1,85 1,97 1,120 1,123 1,141 1,142 1,166 1,206 1,211 1,234 1,237 1,244 1,265 1,286 1,300 1,302 1,318 1,322 1,325 1,338 1,339 1,343 1,359 1,366 1,395 1,397 1,407 1,416 1,420 1,433 1,435 1,437 1,439 1,453 1,470 1,512 1,521 1,545 1,579 1,590 1,659 1,679 1,694 1,696 1,697 1,710 1,717 1,718 1,728 1}
+{0 1,6 1,15 1,46 1,48 1,52 1,57 1,68 1,72 1,97 1,118 1,123 1,142 1,147 1,148 1,178 1,185 1,211 1,218 1,231 1,237 1,241 1,265 1,288 1,303 1,310 1,318 1,338 1,340 1,359 1,366 1,369 1,377 1,405 1,407 1,416 1,420 1,433 1,437 1,507 1,521 1,579 1,589 1,600 1,645 1,649 1,659 1,661 1,662 1,664 1,674 1,696 1,697 1,699 1,720 1,735 1}
+{0 1,38 1,63 1,73 1,80 1,97 1,118 1,138 1,142 1,164 1,211 1,231 1,237 1,241 1,259 1,265 1,273 1,288 1,302 1,303 1,314 1,318 1,359 1,366 1,369 1,390 1,407 1,416 1,419 1,420 1,433 1,437 1,488 1,507 1,510 1,512 1,517 1,521 1,590 1,603 1,614 1,621 1,645 1,649 1,659 1,662 1,674 1,681 1,684 1,687 1,697 1,699 1,715 1}
+{0 1,20 1,73 1,97 1,113 1,117 1,121 1,138 1,140 1,142 1,158 1,160 1,166 1,174 1,185 1,186 1,187 1,211 1,222 1,231 1,234 1,236 1,237 1,246 1,265 1,271 1,288 1,302 1,303 1,307 1,343 1,359 1,363 1,366 1,368 1,390 1,395 1,405 1,420 1,433 1,439 1,442 1,475 1,481 1,512 1,514 1,521 1,523 1,579 1,589 1,603 1,621 1,649 1,674 1,676 1,697 1,710 1,715 1,728 1}
+{1 1,6 1,13 1,20 1,38 1,41 1,73 1,75 1,80 1,116 1,120 1,181 1,188 1,231 1,234 1,237 1,242 1,244 1,253 1,265 1,283 1,303 1,318 1,332 1,344 1,361 1,395 1,399 1,416 1,420 1,564 1,574 1,603 1,633 1,657 1,681 1,735 1}
+{0 1,2 1,11 1,13 1,16 1,20 1,35 1,42 1,45 1,56 1,65 1,71 1,73 1,82 1,89 1,90 1,97 1,98 1,118 1,120 1,126 1,130 1,138 1,154 1,170 1,172 1,185 1,186 1,188 1,204 1,205 1,206 1,207 1,211 1,213 1,219 1,220 1,236 1,237 1,246 1,253 1,262 1,263 1,272 1,286 1,288 1,289 1,303 1,318 1,319 1,320 1,335 1,348 1,371 1,377 1,390 1,395 1,404 1,407 1,418 1,433 1,436 1,439 1,444 1,451 1,452 1,455 1,459 1,463 1,468 1,474 1,475 1,478 1,479 1,481 1,487 1,491 1,495 1,504 1,511 1,513 1,525 1,534 1,540 1,548 1,583 1,592 1,594 1,601 1,603 1,609 1,635 1,658 1,662 1,679 1,681 1,682 1,697 1,704 1,706 1,714 1,716 1,718 1,719 1,720 1,731 1,732 1,736 1}
+{0 1,9 1,15 1,51 1,55 1,60 1,73 1,75 1,79 1,99 1,114 1,120 1,126 1,129 1,134 1,161 1,169 1,206 1,210 1,213 1,218 1,221 1,234 1,244 1,265 1,266 1,272 1,285 1,288 1,296 1,318 1,332 1,334 1,342 1,349 1,377 1,380 1,397 1,416 1,424 1,429 1,451 1,463 1,471 1,478 1,481 1,503 1,515 1,533 1,538 1,574 1,582 1,583 1,589 1,594 1,603 1,614 1,623 1,643 1,645 1,650 1,659 1,662 1,666 1,681 1,683 1,697 1,708 1,715 1,735 1}
+{1 1,6 1,16 1,20 1,22 1,25 1,26 1,34 1,45 1,47 1,55 1,56 1,57 1,79 1,85 1,88 1,89 1,96 1,97 1,100 1,101 1,107 1,110 1,118 1,119 1,123 1,126 1,127 1,128 1,129 1,134 1,138 1,139 1,143 1,145 1,146 1,150 1,154 1,158 1,160 1,172 1,179 1,181 1,185 1,188 1,195 1,205 1,209 1,210 1,211 1,213 1,220 1,222 1,224 1,225 1,234 1,237 1,242 1,245 1,253 1,254 1,274 1,285 1,286 1,288 1,302 1,308 1,318 1,323 1,332 1,333 1,342 1,344 1,348 1,366 1,371 1,376 1,377 1,381 1,382 1,395 1,404 1,422 1,433 1,436 1,437 1,444 1,451 1,453 1,455 1,468 1,470 1,471 1,474 1,475 1,477 1,480 1,486 1,490 1,496 1,504 1,508 1,510 1,528 1,540 1,542 1,546 1,547 1,553 1,563 1,579 1,594 1,598 1,601 1,617 1,626 1,633 1,635 1,643 1,647 1,650 1,655 1,659 1,661 1,672 1,681 1,682 1,683 1,687 1,693 1,697 1,705 1,706 1,709 1,710 1,714 1,716 1,717 1,718 1,730 1,732 1,733 1,736 1}
+{0 1,10 1,16 1,20 1,21 1,25 1,44 1,56 1,63 1,68 1,73 1,75 1,81 1,100 1,111 1,112 1,127 1,129 1,138 1,141 1,142 1,155 1,160 1,166 1,170 1,172 1,179 1,183 1,186 1,187 1,188 1,194 1,197 1,200 1,203 1,206 1,210 1,211 1,213 1,223 1,224 1,225 1,237 1,240 1,241 1,242 1,245 1,254 1,258 1,264 1,283 1,286 1,288 1,303 1,314 1,318 1,320 1,332 1,333 1,335 1,343 1,353 1,366 1,371 1,373 1,377 1,381 1,390 1,407 1,421 1,433 1,444 1,445 1,447 1,448 1,455 1,459 1,468 1,469 1,470 1,472 1,480 1,481 1,484 1,487 1,488 1,491 1,497 1,508 1,511 1,521 1,532 1,534 1,537 1,540 1,546 1,550 1,553 1,555 1,557 1,561 1,582 1,593 1,594 1,603 1,609 1,611 1,630 1,633 1,644 1,648 1,651 1,652 1,656 1,657 1,659 1,661 1,662 1,663 1,670 1,681 1,682 1,683 1,687 1,697 1,703 1,705 1,709 1,710 1,720 1,732 1}
+{0 1,8 1,18 1,20 1,28 1,34 1,50 1,55 1,56 1,73 1,75 1,79 1,109 1,110 1,126 1,129 1,147 1,154 1,188 1,205 1,206 1,207 1,210 1,211 1,213 1,225 1,237 1,241 1,242 1,244 1,254 1,265 1,266 1,272 1,280 1,283 1,288 1,318 1,319 1,332 1,345 1,352 1,355 1,359 1,366 1,377 1,390 1,395 1,407 1,421 1,422 1,433 1,447 1,451 1,455 1,459 1,468 1,469 1,478 1,479 1,481 1,501 1,511 1,512 1,521 1,534 1,546 1,548 1,549 1,583 1,645 1,649 1,657 1,658 1,662 1,663 1,681 1,682 1,683 1,697 1,699 1,709 1,715 1,716 1,720 1,735 1}
+{0 1,14 1,20 1,25 1,57 1,63 1,71 1,73 1,77 1,85 1,97 1,99 1,119 1,123 1,138 1,142 1,160 1,205 1,209 1,211 1,222 1,223 1,236 1,237 1,241 1,257 1,273 1,288 1,318 1,319 1,348 1,355 1,364 1,366 1,377 1,424 1,433 1,442 1,453 1,472 1,474 1,477 1,481 1,500 1,521 1,549 1,578 1,592 1,649 1,652 1,659 1,661 1,662 1,679 1,694 1,697 1,710 1}
+{0 1,16 1,17 1,25 1,57 1,68 1,71 1,73 1,96 1,97 1,111 1,120 1,123 1,129 1,138 1,140 1,142 1,170 1,206 1,232 1,237 1,244 1,263 1,285 1,288 1,289 1,296 1,305 1,310 1,333 1,349 1,366 1,368 1,373 1,377 1,379 1,381 1,392 1,410 1,416 1,421 1,424 1,433 1,472 1,481 1,500 1,514 1,515 1,521 1,523 1,609 1,630 1,633 1,659 1,681 1,687 1,691 1,697 1,710 1,720 1,728 1}
+{0 1,6 1,16 1,25 1,41 1,70 1,71 1,73 1,88 1,97 1,109 1,123 1,140 1,142 1,180 1,185 1,197 1,206 1,211 1,222 1,237 1,238 1,256 1,288 1,325 1,363 1,366 1,380 1,395 1,416 1,424 1,433 1,442 1,444 1,452 1,471 1,491 1,512 1,540 1,549 1,559 1,572 1,585 1,591 1,592 1,609 1,649 1,652 1,659 1,681 1,686 1,687 1,697 1,710 1,716 1,720 1}
+{0 1,14 1,20 1,30 1,45 1,64 1,68 1,73 1,82 1,88 1,97 1,110 1,120 1,124 1,129 1,138 1,142 1,174 1,179 1,185 1,197 1,206 1,211 1,222 1,238 1,248 1,287 1,288 1,297 1,303 1,318 1,319 1,344 1,359 1,368 1,392 1,405 1,406 1,410 1,416 1,433 1,442 1,453 1,472 1,481 1,506 1,521 1,540 1,578 1,594 1,596 1,608 1,617 1,618 1,632 1,659 1,681 1,684 1,688 1,697 1,704 1,710 1,716 1,729 1}
+{1 1,20 1,70 1,90 1,120 1,123 1,126 1,138 1,142 1,143 1,148 1,241 1,244 1,265 1,279 1,310 1,318 1,319 1,338 1,344 1,359 1,363 1,380 1,395 1,399 1,402 1,404 1,416 1,424 1,433 1,453 1,481 1,512 1,521 1,522 1,572 1,576 1,609 1,633 1,681 1,697 1,699 1,713 1,718 1}
+{0 1,6 1,10 1,20 1,45 1,73 1,97 1,101 1,210 1,241 1,265 1,271 1,318 1,337 1,339 1,380 1,433 1,521 1,583 1,633 1,650 1,697 1,708 1}
+{0 1,2 1,9 1,10 1,20 1,36 1,56 1,59 1,68 1,94 1,97 1,101 1,109 1,120 1,123 1,124 1,187 1,188 1,189 1,206 1,210 1,213 1,234 1,243 1,253 1,265 1,279 1,283 1,288 1,294 1,318 1,319 1,332 1,333 1,359 1,364 1,380 1,390 1,402 1,405 1,416 1,431 1,436 1,471 1,472 1,484 1,533 1,537 1,564 1,574 1,583 1,600 1,601 1,630 1,633 1,655 1,672 1,697 1,710 1,712 1,718 1,720 1}
+{0 1,2 1,10 1,16 1,20 1,45 1,49 1,60 1,67 1,68 1,70 1,79 1,91 1,96 1,97 1,99 1,129 1,142 1,188 1,210 1,234 1,243 1,244 1,265 1,283 1,294 1,318 1,332 1,377 1,380 1,390 1,395 1,399 1,416 1,431 1,436 1,459 1,463 1,471 1,472 1,503 1,512 1,533 1,574 1,579 1,591 1,623 1,633 1,672 1,675 1,697 1,718 1,719 1,720 1,728 1}
+{1 1,9 1,10 1,16 1,17 1,18 1,20 1,36 1,37 1,42 1,43 1,44 1,45 1,55 1,73 1,75 1,79 1,80 1,85 1,89 1,97 1,99 1,102 1,114 1,119 1,120 1,123 1,124 1,129 1,142 1,147 1,148 1,174 1,180 1,188 1,196 1,202 1,205 1,210 1,218 1,221 1,224 1,225 1,234 1,241 1,242 1,243 1,244 1,260 1,265 1,272 1,283 1,286 1,318 1,332 1,335 1,336 1,339 1,343 1,363 1,364 1,374 1,382 1,390 1,395 1,398 1,402 1,405 1,421 1,431 1,433 1,445 1,468 1,470 1,471 1,476 1,481 1,484 1,488 1,493 1,503 1,509 1,521 1,533 1,536 1,537 1,546 1,562 1,564 1,574 1,623 1,645 1,650 1,654 1,659 1,672 1,673 1,679 1,681 1,697 1,702 1,719 1,720 1,732 1,735 1}
+{0 1,38 1,45 1,72 1,73 1,75 1,94 1,95 1,97 1,120 1,124 1,134 1,143 1,145 1,149 1,188 1,202 1,234 1,237 1,265 1,288 1,303 1,318 1,319 1,332 1,339 1,344 1,359 1,364 1,377 1,395 1,405 1,433 1,477 1,484 1,512 1,623 1,645 1,657 1,659 1,673 1,676 1,681 1,697 1,728 1,735 1}
+{1 1,39 1,57 1,90 1,97 1,100 1,116 1,126 1,138 1,149 1,154 1,207 1,216 1,219 1,237 1,239 1,241 1,285 1,302 1,310 1,317 1,318 1,338 1,341 1,343 1,359 1,363 1,370 1,397 1,407 1,416 1,518 1,521 1,537 1,552 1,600 1,608 1,633 1,636 1,650 1,672 1,688 1,697 1,720 1}
+{0 1,5 1,6 1,18 1,20 1,28 1,57 1,72 1,90 1,94 1,99 1,114 1,120 1,126 1,138 1,148 1,174 1,216 1,237 1,241 1,253 1,265 1,303 1,310 1,338 1,343 1,359 1,363 1,379 1,390 1,392 1,399 1,416 1,473 1,475 1,477 1,522 1,575 1,628 1,640 1,645 1,659 1,697 1,704 1,707 1,710 1,720 1,725 1}
+{0 1,73 1,241 1,265 1,339 1,343 1,348 1,370 1,390 1,481 1,499 1,509 1,536 1,570 1,602 1,603 1,621 1,681 1,704 1}
+{1 1,75 1,90 1,102 1,114 1,120 1,148 1,160 1,174 1,185 1,188 1,217 1,237 1,239 1,265 1,285 1,294 1,302 1,303 1,308 1,310 1,322 1,339 1,343 1,344 1,358 1,373 1,393 1,399 1,416 1,434 1,472 1,476 1,481 1,498 1,514 1,516 1,531 1,555 1,557 1,572 1,588 1,621 1,633 1,638 1,681 1,696 1,697 1,707 1,710 1,715 1}
+{0 1,15 1,20 1,71 1,72 1,74 1,77 1,101 1,105 1,111 1,120 1,123 1,143 1,149 1,152 1,237 1,241 1,265 1,275 1,277 1,288 1,318 1,332 1,374 1,377 1,399 1,416 1,434 1,471 1,472 1,481 1,492 1,521 1,529 1,589 1,604 1,608 1,609 1,620 1,645 1,659 1,674 1,677 1,681 1,697 1,707 1}
+{1 1,21 1,45 1,46 1,68 1,72 1,73 1,89 1,96 1,97 1,98 1,99 1,123 1,138 1,149 1,161 1,164 1,185 1,188 1,237 1,238 1,241 1,253 1,265 1,285 1,302 1,318 1,338 1,341 1,348 1,373 1,395 1,416 1,470 1,475 1,476 1,481 1,499 1,507 1,521 1,538 1,564 1,589 1,591 1,600 1,609 1,623 1,633 1,666 1,687 1,697 1,707 1}
+{0 1,10 1,15 1,37 1,66 1,68 1,74 1,89 1,99 1,120 1,123 1,138 1,152 1,188 1,210 1,234 1,241 1,253 1,265 1,267 1,285 1,318 1,332 1,338 1,349 1,363 1,371 1,434 1,437 1,476 1,521 1,538 1,559 1,633 1,697 1,704 1,707 1,735 1}
+{1 1,9 1,70 1,89 1,90 1,97 1,112 1,116 1,138 1,149 1,164 1,180 1,187 1,188 1,207 1,223 1,236 1,241 1,265 1,277 1,285 1,303 1,310 1,319 1,332 1,338 1,341 1,343 1,359 1,379 1,390 1,407 1,411 1,416 1,438 1,451 1,481 1,509 1,512 1,522 1,541 1,557 1,572 1,595 1,633 1,669 1,697 1,707 1,720 1,735 1}
+{0 1,20 1,56 1,89 1,90 1,97 1,101 1,114 1,118 1,120 1,138 1,187 1,210 1,237 1,239 1,241 1,253 1,265 1,288 1,318 1,319 1,338 1,407 1,416 1,421 1,451 1,481 1,507 1,514 1,521 1,536 1,574 1,659 1,666 1,715 1,732 1}
+{0 1,20 1,28 1,34 1,38 1,68 1,74 1,90 1,97 1,102 1,117 1,120 1,126 1,138 1,174 1,188 1,221 1,237 1,241 1,265 1,277 1,285 1,318 1,332 1,338 1,373 1,377 1,402 1,407 1,416 1,476 1,496 1,509 1,529 1,541 1,555 1,577 1,589 1,623 1,633 1,697 1,702 1,704 1,735 1}
+{0 1,6 1,10 1,13 1,20 1,188 1,264 1,265 1,285 1,332 1,390 1,416 1,433 1,488 1,490 1,503 1,521 1,529 1,589 1,623 1,633 1,663 1,697 1,708 1,710 1,732 1,735 1}
+{0 1,20 1,31 1,70 1,74 1,90 1,138 1,148 1,188 1,207 1,225 1,234 1,241 1,245 1,271 1,307 1,310 1,332 1,339 1,341 1,348 1,351 1,356 1,363 1,377 1,380 1,390 1,395 1,399 1,442 1,473 1,481 1,509 1,531 1,589 1,592 1,617 1,630 1,633 1,650 1,697 1,707 1}
+{0 1,15 1,21 1,56 1,119 1,147 1,151 1,241 1,285 1,294 1,318 1,332 1,348 1,399 1,416 1,424 1,472 1,476 1,481 1,513 1,557 1,589 1,603 1,623 1,633 1,652 1,672 1,681 1,697 1,707 1}
+{0 1,3 1,20 1,32 1,90 1,99 1,123 1,134 1,161 1,174 1,222 1,237 1,265 1,285 1,310 1,338 1,363 1,367 1,373 1,377 1,380 1,390 1,397 1,399 1,416 1,434 1,481 1,488 1,502 1,509 1,521 1,522 1,582 1,589 1,604 1,621 1,636 1,643 1,650 1,697 1,704 1,707 1}
+{0 1,20 1,28 1,38 1,57 1,70 1,82 1,88 1,90 1,94 1,97 1,99 1,101 1,116 1,119 1,122 1,138 1,174 1,188 1,206 1,207 1,237 1,265 1,285 1,288 1,303 1,318 1,319 1,338 1,344 1,359 1,363 1,416 1,423 1,481 1,495 1,509 1,513 1,531 1,572 1,623 1,633 1,660 1,682 1,697 1,704 1,707 1,710 1,718 1,720 1}
+{1 1,3 1,32 1,64 1,65 1,90 1,99 1,118 1,134 1,138 1,140 1,155 1,285 1,310 1,318 1,320 1,336 1,338 1,340 1,373 1,377 1,391 1,404 1,407 1,416 1,434 1,472 1,476 1,506 1,512 1,513 1,552 1,573 1,606 1,627 1,643 1,650 1,666 1,670 1,672 1,697 1,715 1,733 1}
+{0 1,18 1,38 1,73 1,74 1,99 1,101 1,120 1,126 1,132 1,134 1,152 1,184 1,187 1,213 1,222 1,237 1,241 1,265 1,285 1,310 1,312 1,317 1,338 1,339 1,343 1,344 1,348 1,355 1,363 1,366 1,373 1,377 1,390 1,407 1,416 1,492 1,509 1,521 1,527 1,529 1,600 1,604 1,621 1,630 1,636 1,697 1,707 1,715 1,720 1,735 1}
+{1 1,68 1,75 1,90 1,97 1,99 1,120 1,122 1,149 1,154 1,185 1,188 1,207 1,237 1,241 1,271 1,285 1,314 1,318 1,338 1,359 1,363 1,369 1,370 1,377 1,380 1,416 1,481 1,492 1,494 1,506 1,507 1,519 1,522 1,589 1,603 1,604 1,623 1,633 1,650 1,662 1,669 1,697 1,707 1}
+{1 1,6 1,13 1,38 1,70 1,73 1,75 1,94 1,97 1,116 1,120 1,122 1,138 1,161 1,224 1,237 1,241 1,265 1,285 1,291 1,303 1,338 1,343 1,348 1,359 1,370 1,390 1,391 1,416 1,451 1,472 1,484 1,516 1,531 1,589 1,600 1,609 1,623 1,682 1,697 1,702 1,707 1,716 1}
+{1 1,6 1,14 1,38 1,71 1,72 1,73 1,89 1,93 1,97 1,116 1,120 1,138 1,148 1,149 1,158 1,160 1,174 1,180 1,185 1,188 1,207 1,236 1,241 1,253 1,265 1,285 1,298 1,310 1,325 1,338 1,343 1,360 1,369 1,370 1,388 1,391 1,392 1,393 1,400 1,416 1,434 1,507 1,509 1,524 1,531 1,552 1,555 1,559 1,589 1,591 1,609 1,628 1,629 1,637 1,652 1,666 1,697 1,704 1,720 1,722 1,728 1}
+{1 1,25 1,39 1,71 1,88 1,89 1,97 1,105 1,119 1,129 1,142 1,207 1,237 1,265 1,285 1,297 1,318 1,332 1,339 1,343 1,373 1,374 1,387 1,416 1,434 1,472 1,495 1,509 1,562 1,605 1,622 1,633 1,681 1,697 1,704 1,707 1,736 1}
+{0 1,4 1,20 1,72 1,123 1,129 1,134 1,142 1,185 1,238 1,246 1,265 1,266 1,279 1,303 1,318 1,340 1,344 1,349 1,358 1,373 1,395 1,399 1,451 1,475 1,521 1,522 1,533 1,567 1,603 1,623 1,633 1,681 1,683 1,715 1,716 1,729 1}
+{0 1,20 1,114 1,126 1,151 1,161 1,185 1,210 1,213 1,238 1,253 1,265 1,285 1,304 1,315 1,332 1,355 1,416 1,420 1,470 1,494 1,557 1,559 1,589 1,600 1,605 1,659 1,661 1,689 1,697 1,735 1}
+{1 1,2 1,60 1,231 1,243 1,303 1,331 1,366 1,381 1,477 1,493 1,501 1,583 1,618 1,621 1,626 1}
+{0 1,15 1,16 1,20 1,31 1,58 1,68 1,77 1,119 1,152 1,153 1,213 1,241 1,265 1,285 1,318 1,344 1,359 1,395 1,401 1,423 1,451 1,471 1,475 1,529 1,589 1,600 1,603 1,609 1,621 1,623 1,633 1,649 1,672 1,681 1,682 1,705 1,707 1,728 1}
+{1 1,58 1,90 1,97 1,99 1,120 1,121 1,149 1,161 1,188 1,234 1,237 1,241 1,253 1,265 1,285 1,310 1,318 1,333 1,336 1,338 1,344 1,351 1,370 1,373 1,377 1,407 1,416 1,465 1,493 1,506 1,512 1,521 1,525 1,570 1,590 1,600 1,609 1,633 1,697 1,704 1,707 1,715 1,720 1,735 1}
+{0 1,4 1,18 1,20 1,38 1,58 1,65 1,73 1,75 1,88 1,102 1,119 1,120 1,134 1,149 1,157 1,174 1,188 1,195 1,218 1,237 1,241 1,265 1,285 1,302 1,310 1,333 1,351 1,356 1,363 1,373 1,390 1,430 1,433 1,475 1,481 1,509 1,544 1,548 1,564 1,589 1,596 1,637 1,645 1,650 1,659 1,677 1,681 1,697 1,715 1,735 1}
+{0 1,20 1,38 1,50 1,70 1,71 1,89 1,90 1,117 1,120 1,127 1,173 1,177 1,187 1,188 1,207 1,237 1,241 1,265 1,285 1,294 1,310 1,318 1,319 1,339 1,344 1,352 1,355 1,367 1,370 1,407 1,416 1,421 1,440 1,441 1,442 1,451 1,512 1,513 1,516 1,536 1,552 1,589 1,594 1,600 1,622 1,645 1,681 1,696 1,697 1,707 1,710 1,715 1,725 1,735 1}
+{1 1,6 1,30 1,38 1,70 1,90 1,97 1,112 1,120 1,123 1,138 1,177 1,188 1,202 1,222 1,237 1,241 1,245 1,285 1,294 1,318 1,333 1,338 1,349 1,366 1,373 1,377 1,402 1,416 1,421 1,434 1,476 1,512 1,513 1,522 1,604 1,623 1,645 1,697 1,704 1,707 1,715 1,728 1}
+{0 1,13 1,58 1,90 1,99 1,116 1,118 1,138 1,174 1,216 1,241 1,265 1,285 1,318 1,332 1,338 1,341 1,373 1,377 1,380 1,387 1,399 1,416 1,444 1,451 1,472 1,481 1,509 1,521 1,522 1,557 1,582 1,621 1,623 1,645 1,659 1,697 1,707 1}
+{1 1,4 1,6 1,73 1,102 1,123 1,126 1,138 1,177 1,187 1,188 1,202 1,211 1,241 1,257 1,265 1,303 1,310 1,311 1,318 1,336 1,338 1,366 1,379 1,387 1,391 1,432 1,440 1,442 1,474 1,495 1,501 1,521 1,528 1,589 1,600 1,635 1,637 1,649 1,652 1,659 1,661 1,676 1,697 1,704 1,706 1,710 1,712 1,715 1,716 1,720 1,722 1,730 1}
+{0 1,20 1,28 1,38 1,51 1,68 1,72 1,75 1,81 1,90 1,97 1,120 1,123 1,138 1,142 1,148 1,208 1,211 1,217 1,237 1,285 1,318 1,338 1,348 1,349 1,363 1,366 1,369 1,373 1,377 1,392 1,395 1,407 1,433 1,470 1,497 1,507 1,524 1,549 1,574 1,596 1,633 1,650 1,652 1,656 1,674 1,676 1,716 1,720 1,733 1}
+{0 1,6 1,10 1,20 1,60 1,70 1,73 1,94 1,97 1,114 1,119 1,138 1,154 1,188 1,223 1,237 1,285 1,303 1,310 1,319 1,338 1,349 1,355 1,363 1,390 1,416 1,444 1,451 1,500 1,509 1,521 1,633 1,650 1,697 1,707 1,720 1}
+{1 1,18 1,20 1,30 1,38 1,45 1,48 1,58 1,70 1,71 1,90 1,94 1,97 1,99 1,102 1,121 1,129 1,160 1,173 1,174 1,188 1,222 1,237 1,241 1,257 1,288 1,296 1,303 1,306 1,313 1,338 1,355 1,359 1,363 1,366 1,370 1,380 1,390 1,395 1,405 1,407 1,412 1,420 1,495 1,502 1,506 1,508 1,589 1,606 1,608 1,617 1,623 1,630 1,676 1,694 1,697 1,702 1,707 1,716 1,717 1,735 1}
+{0 1,3 1,6 1,18 1,27 1,33 1,38 1,70 1,75 1,90 1,99 1,120 1,121 1,134 1,140 1,143 1,174 1,184 1,188 1,198 1,237 1,241 1,284 1,285 1,297 1,304 1,310 1,318 1,338 1,339 1,340 1,359 1,366 1,369 1,377 1,397 1,399 1,405 1,416 1,423 1,467 1,470 1,481 1,497 1,506 1,512 1,522 1,552 1,573 1,589 1,591 1,606 1,608 1,617 1,630 1,637 1,677 1,697 1,707 1,728 1,729 1,735 1}
+{1 1,51 1,58 1,70 1,71 1,89 1,90 1,92 1,103 1,114 1,118 1,120 1,128 1,149 1,158 1,161 1,174 1,177 1,188 1,225 1,237 1,241 1,265 1,285 1,318 1,325 1,339 1,343 1,348 1,354 1,377 1,390 1,395 1,397 1,399 1,407 1,416 1,423 1,435 1,492 1,506 1,513 1,543 1,590 1,591 1,624 1,633 1,647 1,659 1,681 1,697 1,707 1,728 1}
+{0 1,18 1,20 1,24 1,38 1,51 1,70 1,71 1,74 1,88 1,90 1,97 1,114 1,120 1,138 1,149 1,188 1,207 1,231 1,234 1,237 1,265 1,285 1,306 1,310 1,318 1,336 1,348 1,363 1,373 1,390 1,395 1,397 1,416 1,433 1,474 1,481 1,491 1,509 1,521 1,589 1,627 1,633 1,681 1,688 1,696 1,697 1,715 1,720 1,735 1}
+{0 1,6 1,20 1,38 1,58 1,70 1,90 1,97 1,99 1,120 1,123 1,138 1,141 1,142 1,149 1,157 1,174 1,177 1,237 1,241 1,265 1,285 1,296 1,317 1,320 1,340 1,344 1,345 1,350 1,355 1,373 1,390 1,398 1,405 1,416 1,420 1,467 1,507 1,516 1,521 1,531 1,589 1,604 1,610 1,623 1,630 1,633 1,650 1,661 1,681 1,684 1,696 1,697 1,707 1,710 1,715 1,720 1,728 1}
+{0 1,4 1,10 1,14 1,18 1,54 1,57 1,77 1,90 1,116 1,126 1,138 1,174 1,185 1,188 1,223 1,237 1,241 1,253 1,265 1,285 1,318 1,338 1,341 1,343 1,349 1,359 1,361 1,366 1,372 1,377 1,389 1,390 1,400 1,404 1,416 1,423 1,430 1,476 1,495 1,516 1,603 1,604 1,620 1,645 1,659 1,697 1,704 1,707 1,720 1,735 1}
+{1 1,20 1,58 1,68 1,75 1,95 1,114 1,120 1,188 1,191 1,237 1,265 1,318 1,349 1,416 1,430 1,444 1,471 1,484 1,528 1,533 1,538 1,551 1,559 1,623 1,645 1,666 1,697 1,707 1,732 1,735 1}
+{1 1,3 1,10 1,59 1,73 1,118 1,129 1,152 1,187 1,188 1,189 1,213 1,222 1,223 1,237 1,265 1,275 1,285 1,319 1,349 1,351 1,359 1,407 1,416 1,484 1,499 1,509 1,513 1,552 1,574 1,583 1,600 1,623 1,630 1,662 1,681 1,707 1,735 1}
+{0 1,10 1,38 1,70 1,73 1,129 1,142 1,152 1,174 1,213 1,237 1,265 1,277 1,279 1,285 1,303 1,320 1,349 1,351 1,416 1,432 1,434 1,471 1,515 1,521 1,583 1,623 1,633 1,647 1,650 1,681 1,697 1,707 1,720 1}
+{0 1,6 1,58 1,70 1,72 1,101 1,118 1,119 1,129 1,139 1,141 1,161 1,164 1,187 1,205 1,231 1,237 1,246 1,265 1,302 1,303 1,318 1,328 1,344 1,363 1,369 1,377 1,392 1,399 1,407 1,427 1,451 1,474 1,488 1,512 1,529 1,536 1,542 1,589 1,624 1,645 1,650 1,681 1,694 1,697 1,716 1,729 1}
+{0 1,59 1,70 1,102 1,126 1,139 1,148 1,185 1,188 1,239 1,241 1,265 1,285 1,288 1,310 1,339 1,355 1,370 1,399 1,407 1,416 1,493 1,513 1,533 1,555 1,589 1,633 1,650 1,681 1,697 1,704 1,707 1,710 1,715 1,732 1}
+{0 1,65 1,72 1,97 1,114 1,169 1,174 1,285 1,318 1,375 1,377 1,416 1,488 1,589 1,605 1,623 1,633 1,672 1,682 1}
+{1 1,18 1,20 1,32 1,58 1,70 1,72 1,90 1,97 1,116 1,119 1,126 1,138 1,187 1,188 1,212 1,237 1,241 1,265 1,274 1,285 1,300 1,302 1,303 1,310 1,318 1,338 1,340 1,349 1,389 1,397 1,416 1,433 1,434 1,490 1,495 1,514 1,519 1,525 1,555 1,570 1,574 1,604 1,620 1,630 1,645 1,659 1,702 1,713 1,728 1,735 1}
+{0 1,20 1,28 1,37 1,58 1,63 1,70 1,90 1,95 1,118 1,120 1,138 1,186 1,222 1,234 1,237 1,241 1,253 1,258 1,265 1,285 1,318 1,332 1,338 1,360 1,370 1,373 1,397 1,413 1,430 1,481 1,494 1,495 1,500 1,514 1,555 1,618 1,630 1,645 1,672 1,697 1,707 1,710 1}
+{0 1,18 1,58 1,70 1,77 1,90 1,97 1,112 1,120 1,123 1,148 1,174 1,185 1,188 1,223 1,237 1,253 1,265 1,285 1,286 1,307 1,318 1,319 1,338 1,343 1,344 1,354 1,359 1,367 1,369 1,377 1,379 1,387 1,407 1,416 1,432 1,434 1,452 1,456 1,494 1,500 1,512 1,520 1,521 1,522 1,526 1,589 1,608 1,624 1,628 1,633 1,638 1,660 1,690 1,697 1,707 1,710 1,726 1,728 1}
+{1 1,50 1,57 1,90 1,96 1,97 1,118 1,120 1,138 1,187 1,188 1,189 1,223 1,237 1,245 1,265 1,285 1,310 1,318 1,343 1,355 1,368 1,373 1,381 1,383 1,407 1,416 1,421 1,442 1,452 1,484 1,494 1,498 1,508 1,509 1,521 1,559 1,589 1,603 1,622 1,630 1,633 1,681 1,697 1,707 1}
+{1 1,10 1,13 1,58 1,68 1,90 1,97 1,116 1,138 1,164 1,174 1,187 1,188 1,222 1,234 1,237 1,241 1,265 1,285 1,310 1,318 1,319 1,338 1,341 1,343 1,348 1,359 1,363 1,369 1,387 1,402 1,416 1,423 1,441 1,470 1,494 1,510 1,513 1,531 1,581 1,589 1,600 1,604 1,608 1,621 1,696 1,697 1,707 1,710 1,719 1,725 1}
+{1 1,4 1,40 1,58 1,90 1,99 1,102 1,118 1,139 1,141 1,149 1,210 1,215 1,234 1,237 1,241 1,252 1,265 1,273 1,285 1,318 1,338 1,339 1,369 1,373 1,387 1,416 1,452 1,476 1,481 1,491 1,493 1,552 1,562 1,589 1,600 1,633 1,635 1,666 1,697 1,704 1,720 1,726 1,735 1}
+{0 1,16 1,60 1,73 1,75 1,97 1,99 1,120 1,138 1,139 1,148 1,241 1,265 1,285 1,338 1,390 1,416 1,472 1,481 1,557 1,589 1,621 1,623 1,633 1,650 1,672 1,697 1,710 1,722 1}
+{0 1,18 1,50 1,75 1,90 1,120 1,138 1,142 1,144 1,161 1,189 1,234 1,241 1,253 1,265 1,277 1,285 1,303 1,312 1,318 1,336 1,338 1,359 1,416 1,421 1,430 1,451 1,468 1,481 1,507 1,509 1,512 1,547 1,555 1,589 1,600 1,633 1,662 1,697 1,704 1,719 1,727 1}
+{0 1,6 1,16 1,57 1,70 1,90 1,97 1,102 1,118 1,120 1,161 1,188 1,222 1,237 1,253 1,265 1,285 1,303 1,310 1,325 1,338 1,343 1,359 1,366 1,377 1,381 1,388 1,389 1,407 1,416 1,423 1,443 1,508 1,522 1,555 1,557 1,580 1,589 1,604 1,630 1,650 1,659 1,697 1,702 1,707 1,710 1}
+{1 1,37 1,89 1,90 1,94 1,138 1,210 1,219 1,223 1,239 1,265 1,292 1,309 1,338 1,357 1,359 1,366 1,368 1,399 1,407 1,421 1,426 1,434 1,461 1,513 1,518 1,523 1,574 1,582 1,603 1,605 1,630 1,645 1,659 1,662 1,702 1,704 1,707 1,719 1,720 1}
+{0 1,6 1,38 1,70 1,75 1,90 1,96 1,97 1,119 1,120 1,138 1,141 1,168 1,188 1,190 1,222 1,223 1,237 1,265 1,285 1,303 1,310 1,355 1,359 1,366 1,368 1,390 1,407 1,416 1,434 1,474 1,475 1,507 1,508 1,509 1,514 1,525 1,557 1,581 1,589 1,591 1,604 1,630 1,650 1,662 1,681 1,697 1,707 1,715 1,718 1,720 1}
+{1 1,20 1,70 1,90 1,97 1,99 1,119 1,127 1,138 1,142 1,152 1,161 1,184 1,185 1,187 1,237 1,239 1,265 1,285 1,302 1,310 1,319 1,338 1,344 1,363 1,368 1,369 1,377 1,379 1,404 1,416 1,423 1,432 1,433 1,434 1,442 1,445 1,481 1,509 1,521 1,529 1,589 1,621 1,630 1,633 1,659 1,697 1,702 1,704 1,706 1,708 1}
+{1 1,21 1,57 1,70 1,75 1,90 1,99 1,102 1,118 1,138 1,160 1,174 1,188 1,237 1,253 1,285 1,294 1,318 1,319 1,333 1,356 1,363 1,366 1,407 1,416 1,425 1,430 1,439 1,481 1,507 1,510 1,561 1,577 1,590 1,605 1,621 1,623 1,659 1,681 1,682 1,706 1,707 1,715 1,720 1}
+{1 1,21 1,50 1,70 1,90 1,111 1,120 1,129 1,139 1,188 1,213 1,222 1,237 1,265 1,281 1,285 1,318 1,319 1,338 1,344 1,359 1,397 1,407 1,416 1,421 1,481 1,484 1,495 1,513 1,555 1,600 1,602 1,623 1,697 1,707 1}
+{0 1,10 1,15 1,18 1,94 1,99 1,100 1,120 1,123 1,134 1,145 1,174 1,188 1,189 1,237 1,241 1,265 1,285 1,303 1,318 1,319 1,339 1,355 1,356 1,363 1,399 1,416 1,427 1,432 1,449 1,474 1,484 1,514 1,521 1,525 1,527 1,548 1,604 1,623 1,633 1,659 1,662 1,681 1,697 1,704 1,707 1,720 1,728 1}
+{0 1,10 1,38 1,43 1,70 1,75 1,100 1,101 1,102 1,117 1,120 1,129 1,160 1,178 1,185 1,188 1,191 1,192 1,202 1,237 1,277 1,285 1,286 1,289 1,305 1,307 1,310 1,314 1,318 1,353 1,359 1,366 1,399 1,416 1,433 1,472 1,488 1,489 1,496 1,501 1,541 1,557 1,580 1,589 1,591 1,596 1,608 1,620 1,621 1,633 1,643 1,669 1,684 1,694 1,697 1,700 1,710 1}
+{0 1,18 1,58 1,68 1,90 1,99 1,120 1,123 1,138 1,141 1,188 1,190 1,234 1,239 1,241 1,265 1,285 1,332 1,336 1,338 1,340 1,348 1,366 1,377 1,387 1,416 1,420 1,430 1,432 1,433 1,434 1,466 1,474 1,481 1,484 1,507 1,509 1,521 1,525 1,590 1,604 1,608 1,623 1,633 1,697 1,704 1,720 1,728 1}
+{0 1,18 1,54 1,75 1,90 1,99 1,119 1,120 1,138 1,188 1,237 1,239 1,241 1,265 1,285 1,310 1,338 1,351 1,359 1,377 1,387 1,397 1,399 1,407 1,416 1,474 1,481 1,509 1,554 1,557 1,572 1,574 1,603 1,604 1,630 1,633 1,666 1,707 1,720 1,735 1}
+{0 1,99 1,188 1,234 1,265 1,303 1,306 1,310 1,364 1,390 1,416 1,441 1,472 1,484 1,496 1,514 1,515 1,552 1,570 1,600 1,605 1,645 1,650 1,666 1,681 1,697 1,714 1,720 1}
+{0 1,75 1,97 1,99 1,120 1,123 1,126 1,134 1,138 1,188 1,237 1,241 1,265 1,285 1,303 1,310 1,313 1,315 1,316 1,318 1,319 1,332 1,359 1,363 1,387 1,416 1,451 1,470 1,533 1,538 1,570 1,589 1,620 1,621 1,633 1,681 1,697 1,704 1,707 1,710 1,712 1,715 1}
+{0 1,6 1,28 1,72 1,90 1,96 1,97 1,99 1,119 1,120 1,123 1,134 1,174 1,187 1,188 1,212 1,237 1,265 1,285 1,302 1,303 1,339 1,344 1,355 1,358 1,377 1,387 1,390 1,416 1,423 1,442 1,474 1,509 1,513 1,514 1,525 1,527 1,552 1,591 1,600 1,605 1,633 1,650 1,681 1,697 1,704 1}
+{0 1,6 1,38 1,58 1,60 1,70 1,73 1,99 1,120 1,123 1,134 1,139 1,188 1,237 1,241 1,253 1,285 1,294 1,303 1,318 1,319 1,359 1,363 1,374 1,399 1,416 1,471 1,495 1,521 1,574 1,589 1,633 1,650 1,681 1,704 1,707 1,715 1,735 1}
+{0 1,13 1,38 1,78 1,94 1,96 1,114 1,126 1,128 1,139 1,174 1,181 1,188 1,265 1,266 1,267 1,285 1,302 1,420 1,481 1,514 1,521 1,529 1,542 1,624 1,633 1,661 1,681 1,697 1,735 1}
+{0 1,187 1,234 1,285 1,303 1,436 1,622 1}
+{1 1,90 1,96 1,97 1,116 1,120 1,126 1,134 1,138 1,144 1,174 1,185 1,188 1,202 1,223 1,237 1,280 1,302 1,319 1,338 1,344 1,359 1,363 1,377 1,389 1,390 1,406 1,407 1,416 1,476 1,481 1,512 1,515 1,538 1,564 1,619 1,622 1,633 1,643 1,697 1,707 1,732 1}
+{1 1,58 1,68 1,90 1,99 1,102 1,118 1,126 1,138 1,152 1,185 1,188 1,234 1,237 1,241 1,265 1,285 1,303 1,318 1,319 1,343 1,344 1,359 1,399 1,407 1,416 1,423 1,441 1,498 1,508 1,509 1,522 1,552 1,557 1,562 1,581 1,589 1,600 1,621 1,623 1,633 1,681 1,697 1,704 1,707 1,710 1}
+{1 1,6 1,58 1,70 1,90 1,97 1,100 1,102 1,116 1,120 1,126 1,158 1,161 1,188 1,222 1,223 1,237 1,241 1,253 1,265 1,288 1,301 1,318 1,319 1,338 1,339 1,340 1,343 1,353 1,358 1,366 1,367 1,370 1,373 1,377 1,384 1,387 1,389 1,397 1,401 1,407 1,416 1,423 1,434 1,476 1,512 1,572 1,608 1,609 1,623 1,643 1,669 1,697 1,707 1,710 1}
+{0 1,50 1,90 1,102 1,116 1,120 1,138 1,139 1,187 1,188 1,234 1,237 1,265 1,285 1,303 1,310 1,344 1,363 1,366 1,390 1,395 1,416 1,423 1,430 1,481 1,538 1,589 1,621 1,633 1,659 1,681 1,697 1,707 1,710 1,714 1}
+{0 1,15 1,38 1,67 1,68 1,97 1,99 1,119 1,123 1,139 1,142 1,174 1,185 1,189 1,239 1,285 1,294 1,303 1,363 1,416 1,432 1,444 1,451 1,461 1,481 1,488 1,495 1,590 1,621 1,623 1,633 1,681 1,697 1,704 1,707 1,710 1,715 1}
+{0 1,55 1,70 1,90 1,99 1,116 1,119 1,138 1,149 1,213 1,234 1,241 1,253 1,265 1,285 1,310 1,318 1,333 1,338 1,349 1,360 1,363 1,367 1,379 1,387 1,451 1,461 1,463 1,467 1,475 1,481 1,492 1,509 1,513 1,524 1,543 1,559 1,600 1,645 1,650 1,659 1,697 1,704 1,707 1,710 1,720 1,724 1}
+{1 1,6 1,15 1,38 1,65 1,70 1,72 1,94 1,99 1,116 1,120 1,129 1,148 1,174 1,187 1,188 1,197 1,265 1,285 1,303 1,318 1,364 1,373 1,387 1,399 1,416 1,495 1,499 1,512 1,521 1,591 1,600 1,623 1,633 1,696 1,697 1,702 1,707 1,710 1,715 1}
+{1 1,75 1,81 1,90 1,122 1,147 1,189 1,237 1,253 1,282 1,317 1,333 1,338 1,359 1,387 1,390 1,407 1,416 1,435 1,509 1,517 1,583 1,601 1,631 1,669 1,672 1,673 1,710 1,715 1}
+{0 1,57 1,60 1,69 1,90 1,97 1,99 1,134 1,138 1,149 1,188 1,246 1,253 1,265 1,285 1,303 1,318 1,332 1,333 1,349 1,373 1,387 1,395 1,475 1,487 1,514 1,521 1,542 1,574 1,605 1,633 1,681 1,704 1,715 1}
+{0 1,20 1,30 1,38 1,49 1,58 1,126 1,151 1,169 1,174 1,188 1,213 1,318 1,319 1,416 1,484 1,503 1,603 1,626 1,633 1,635 1,643 1,659 1,694 1,714 1,716 1}
+{0 1,18 1,38 1,57 1,70 1,82 1,89 1,90 1,97 1,99 1,120 1,122 1,138 1,184 1,188 1,219 1,237 1,247 1,265 1,285 1,286 1,299 1,303 1,318 1,332 1,338 1,343 1,355 1,359 1,366 1,368 1,407 1,427 1,434 1,474 1,475 1,481 1,492 1,497 1,514 1,520 1,521 1,531 1,557 1,572 1,623 1,633 1,673 1,676 1,697 1,702 1,707 1,715 1,728 1}
+{1 1,46 1,58 1,70 1,90 1,99 1,120 1,123 1,138 1,142 1,174 1,185 1,202 1,205 1,213 1,234 1,237 1,241 1,253 1,265 1,288 1,310 1,318 1,338 1,348 1,355 1,356 1,359 1,366 1,407 1,481 1,513 1,525 1,557 1,585 1,589 1,591 1,600 1,609 1,635 1,645 1,659 1,662 1,697 1,707 1,715 1,735 1}
+{1 1,3 1,6 1,38 1,58 1,70 1,75 1,89 1,90 1,99 1,116 1,120 1,138 1,185 1,188 1,202 1,213 1,234 1,237 1,241 1,253 1,265 1,288 1,310 1,318 1,338 1,343 1,355 1,356 1,359 1,366 1,392 1,416 1,472 1,525 1,557 1,574 1,585 1,589 1,591 1,600 1,635 1,645 1,659 1,707 1,719 1,735 1}
+{1 1,57 1,139 1,188 1,217 1,238 1,253 1,310 1,367 1,391 1,399 1,407 1,432 1,460 1,476 1,516 1,557 1,570 1,589 1,596 1,603 1,605 1,666 1,704 1}
+{1 1,20 1,59 1,70 1,90 1,99 1,116 1,119 1,138 1,161 1,185 1,188 1,213 1,237 1,241 1,265 1,338 1,343 1,349 1,359 1,366 1,370 1,377 1,390 1,407 1,416 1,421 1,476 1,504 1,512 1,536 1,600 1,603 1,622 1,626 1,633 1,659 1,704 1,707 1,715 1,726 1,735 1}
+{1 1,20 1,70 1,72 1,90 1,94 1,116 1,120 1,126 1,138 1,149 1,189 1,238 1,239 1,285 1,298 1,303 1,310 1,326 1,336 1,363 1,407 1,433 1,451 1,472 1,514 1,521 1,600 1,645 1,659 1,672 1,681 1,683 1,735 1}
+{0 1,15 1,40 1,75 1,89 1,97 1,99 1,116 1,120 1,126 1,138 1,148 1,161 1,224 1,265 1,282 1,285 1,303 1,338 1,361 1,366 1,387 1,390 1,392 1,395 1,397 1,416 1,460 1,474 1,481 1,499 1,510 1,552 1,589 1,600 1,628 1,633 1,678 1,697 1,707 1,717 1}
+{0 1,4 1,15 1,70 1,75 1,94 1,97 1,99 1,102 1,120 1,126 1,139 1,161 1,188 1,202 1,237 1,241 1,253 1,265 1,271 1,285 1,303 1,318 1,325 1,337 1,339 1,359 1,363 1,377 1,407 1,416 1,434 1,455 1,508 1,522 1,545 1,577 1,589 1,606 1,623 1,633 1,650 1,669 1,677 1,704 1,707 1,715 1,720 1,735 1}
+{0 1,63 1,142 1,174 1,237 1,238 1,265 1,275 1,277 1,285 1,333 1,351 1,359 1,377 1,416 1,470 1,474 1,507 1,509 1,513 1,541 1,589 1,596 1,603 1,623 1,643 1,650 1,662 1,683 1,691 1,707 1}
+{0 1,51 1,57 1,68 1,69 1,73 1,75 1,77 1,90 1,96 1,97 1,102 1,120 1,129 1,139 1,142 1,143 1,169 1,174 1,187 1,228 1,247 1,265 1,277 1,285 1,300 1,303 1,315 1,318 1,336 1,338 1,368 1,373 1,407 1,416 1,433 1,434 1,451 1,458 1,475 1,514 1,589 1,603 1,623 1,630 1,631 1,633 1,650 1,664 1,697 1,710 1,728 1}
+{1 1,6 1,38 1,58 1,66 1,70 1,72 1,73 1,89 1,97 1,99 1,123 1,138 1,142 1,202 1,205 1,211 1,234 1,237 1,239 1,241 1,253 1,265 1,285 1,332 1,341 1,356 1,359 1,366 1,372 1,377 1,407 1,411 1,433 1,484 1,507 1,512 1,521 1,557 1,590 1,591 1,609 1,623 1,630 1,633 1,662 1,681 1,696 1,697 1,699 1,700 1,713 1}
+{1 1,4 1,6 1,20 1,60 1,90 1,94 1,98 1,148 1,188 1,189 1,223 1,234 1,241 1,265 1,301 1,318 1,338 1,339 1,373 1,383 1,399 1,407 1,418 1,445 1,495 1,508 1,553 1,557 1,570 1,574 1,626 1,633 1,707 1,710 1}
+{1 1,4 1,14 1,15 1,18 1,38 1,57 1,72 1,73 1,75 1,90 1,97 1,120 1,123 1,139 1,158 1,185 1,188 1,236 1,237 1,241 1,253 1,265 1,285 1,303 1,310 1,318 1,339 1,349 1,356 1,359 1,363 1,366 1,392 1,407 1,411 1,416 1,435 1,475 1,492 1,509 1,531 1,567 1,603 1,606 1,633 1,659 1,681 1,696 1,697 1,700 1,704 1,710 1,720 1,722 1}
+{0 1,38 1,70 1,90 1,99 1,120 1,123 1,138 1,139 1,151 1,188 1,225 1,236 1,265 1,283 1,285 1,299 1,310 1,333 1,344 1,363 1,366 1,373 1,377 1,389 1,390 1,399 1,400 1,416 1,472 1,481 1,514 1,525 1,570 1,574 1,589 1,600 1,609 1,645 1,681 1,715 1,735 1}
+{1 1,16 1,18 1,55 1,68 1,90 1,97 1,99 1,102 1,117 1,120 1,138 1,149 1,161 1,174 1,176 1,188 1,237 1,241 1,265 1,285 1,314 1,318 1,325 1,338 1,356 1,363 1,366 1,377 1,379 1,387 1,407 1,416 1,427 1,434 1,444 1,451 1,481 1,483 1,484 1,543 1,623 1,633 1,696 1,697 1,707 1,719 1,720 1,728 1}
+{0 1,18 1,38 1,70 1,73 1,117 1,129 1,139 1,180 1,187 1,237 1,241 1,265 1,285 1,303 1,307 1,310 1,315 1,318 1,338 1,359 1,366 1,400 1,416 1,422 1,423 1,453 1,488 1,512 1,531 1,536 1,537 1,547 1,559 1,564 1,582 1,589 1,591 1,596 1,605 1,608 1,627 1,633 1,696 1,697 1,700 1,716 1,730 1,735 1}
+{1 1,17 1,18 1,20 1,25 1,28 1,58 1,77 1,86 1,87 1,89 1,97 1,99 1,102 1,120 1,138 1,139 1,142 1,145 1,174 1,177 1,185 1,204 1,236 1,237 1,239 1,241 1,245 1,265 1,288 1,303 1,304 1,310 1,338 1,339 1,345 1,358 1,366 1,379 1,393 1,416 1,433 1,435 1,441 1,474 1,481 1,484 1,492 1,512 1,514 1,517 1,521 1,522 1,526 1,586 1,589 1,591 1,606 1,630 1,631 1,633 1,659 1,697 1,700 1,704 1,712 1,720 1}
+{1 1,6 1,18 1,25 1,58 1,64 1,68 1,77 1,82 1,90 1,97 1,101 1,102 1,103 1,120 1,122 1,123 1,138 1,142 1,167 1,174 1,185 1,211 1,222 1,236 1,237 1,241 1,265 1,285 1,286 1,288 1,318 1,328 1,337 1,338 1,358 1,366 1,367 1,379 1,387 1,389 1,390 1,404 1,423 1,434 1,448 1,474 1,492 1,515 1,520 1,522 1,573 1,589 1,591 1,630 1,643 1,659 1,661 1,674 1,676 1,697 1,701 1,704 1,707 1,710 1,712 1,717 1,728 1,729 1}
+{0 1,18 1,24 1,25 1,28 1,30 1,43 1,57 1,64 1,72 1,77 1,86 1,89 1,90 1,97 1,102 1,120 1,123 1,129 1,142 1,147 1,177 1,185 1,204 1,211 1,236 1,241 1,265 1,285 1,288 1,289 1,300 1,304 1,310 1,311 1,312 1,318 1,328 1,336 1,338 1,358 1,359 1,366 1,379 1,395 1,407 1,408 1,416 1,434 1,437 1,441 1,448 1,474 1,484 1,492 1,512 1,521 1,573 1,589 1,591 1,603 1,604 1,630 1,633 1,643 1,659 1,681 1,696 1,697 1,707 1,710 1,712 1,713 1}
+{0 1,6 1,34 1,38 1,66 1,70 1,89 1,90 1,99 1,112 1,120 1,123 1,138 1,142 1,174 1,187 1,223 1,237 1,277 1,285 1,294 1,303 1,310 1,318 1,338 1,344 1,356 1,359 1,366 1,377 1,399 1,413 1,416 1,420 1,461 1,490 1,507 1,515 1,516 1,589 1,604 1,630 1,633 1,638 1,697 1,702 1,704 1,707 1}
+{0 1,3 1,6 1,21 1,28 1,38 1,77 1,89 1,90 1,99 1,102 1,120 1,126 1,138 1,187 1,188 1,210 1,237 1,241 1,265 1,285 1,303 1,318 1,319 1,337 1,338 1,351 1,356 1,377 1,399 1,407 1,416 1,424 1,438 1,445 1,484 1,514 1,521 1,525 1,538 1,548 1,589 1,609 1,630 1,633 1,638 1,697 1,707 1,720 1}
+{0 1,20 1}
+{1 1,13 1,20 1,57 1,63 1,75 1,90 1,94 1,99 1,114 1,120 1,138 1,161 1,188 1,210 1,213 1,231 1,237 1,241 1,253 1,265 1,285 1,297 1,303 1,318 1,337 1,356 1,360 1,407 1,416 1,423 1,447 1,455 1,461 1,493 1,495 1,524 1,559 1,600 1,603 1,605 1,645 1,662 1,681 1,704 1,712 1,722 1,735 1}
+{0 1,10 1,20 1,25 1,30 1,46 1,50 1,58 1,70 1,72 1,73 1,99 1,102 1,114 1,120 1,126 1,161 1,187 1,188 1,213 1,237 1,265 1,277 1,285 1,302 1,303 1,318 1,319 1,337 1,359 1,363 1,366 1,377 1,416 1,476 1,488 1,521 1,547 1,572 1,596 1,605 1,624 1,645 1,659 1,681 1,697 1,702 1,708 1,735 1}
+{0 1,6 1,51 1,58 1,70 1,72 1,73 1,97 1,99 1,102 1,114 1,120 1,126 1,138 1,185 1,188 1,211 1,222 1,231 1,237 1,239 1,265 1,285 1,310 1,337 1,338 1,355 1,366 1,373 1,375 1,400 1,402 1,407 1,416 1,443 1,484 1,507 1,514 1,515 1,516 1,521 1,547 1,557 1,589 1,697 1,702 1,707 1}
+{0 1,38 1,54 1,58 1,75 1,89 1,90 1,97 1,99 1,103 1,120 1,123 1,126 1,193 1,202 1,206 1,209 1,211 1,222 1,223 1,237 1,265 1,285 1,303 1,318 1,319 1,338 1,356 1,359 1,366 1,377 1,380 1,407 1,416 1,468 1,495 1,512 1,557 1,573 1,589 1,604 1,623 1,656 1,662 1,697 1,728 1,735 1}
+{0 1,6 1,13 1,26 1,38 1,53 1,58 1,89 1,90 1,94 1,99 1,102 1,119 1,120 1,123 1,188 1,202 1,234 1,237 1,241 1,265 1,279 1,280 1,283 1,285 1,303 1,310 1,318 1,338 1,343 1,359 1,377 1,399 1,416 1,420 1,461 1,476 1,488 1,493 1,521 1,589 1,633 1,697 1,704 1,716 1,720 1}
+{0 1,6 1,20 1,28 1,46 1,75 1,90 1,97 1,116 1,119 1,129 1,134 1,138 1,139 1,174 1,188 1,222 1,237 1,265 1,285 1,297 1,298 1,303 1,318 1,338 1,349 1,359 1,366 1,395 1,416 1,434 1,445 1,460 1,484 1,529 1,574 1,603 1,626 1,630 1,643 1,647 1,674 1,682 1,707 1,716 1,720 1}
+{1 1,11 1,18 1,38 1,57 1,70 1,77 1,90 1,94 1,97 1,99 1,120 1,126 1,141 1,188 1,189 1,202 1,218 1,223 1,237 1,265 1,285 1,303 1,310 1,318 1,319 1,337 1,338 1,343 1,351 1,359 1,362 1,377 1,407 1,416 1,423 1,474 1,476 1,521 1,529 1,541 1,589 1,600 1,645 1,659 1,660 1,697 1,702 1,704 1,710 1}
+{0 1,18 1,21 1,34 1,57 1,66 1,70 1,73 1,94 1,97 1,120 1,123 1,138 1,161 1,187 1,188 1,265 1,283 1,285 1,303 1,310 1,318 1,319 1,338 1,373 1,407 1,423 1,434 1,472 1,475 1,557 1,603 1,604 1,633 1,642 1,643 1,683 1}
+{0 1,20 1,116 1,119 1,120 1,129 1,148 1,185 1,188 1,189 1,238 1,265 1,285 1,303 1,306 1,310 1,319 1,336 1,363 1,389 1,390 1,392 1,407 1,434 1,510 1,514 1,533 1,543 1,630 1,659 1,673 1,697 1,702 1,707 1,725 1,730 1,735 1}
+{1 1,6 1,60 1,68 1,90 1,120 1,210 1,237 1,253 1,277 1,285 1,294 1,357 1,363 1,389 1,390 1,397 1,399 1,434 1,471 1,494 1,512 1,561 1,574 1,603 1,604 1,672 1,681 1,684 1,710 1,728 1}
+{1 1,20 1,57 1,68 1,88 1,89 1,90 1,102 1,123 1,138 1,161 1,173 1,188 1,219 1,237 1,253 1,265 1,285 1,310 1,319 1,355 1,389 1,390 1,397 1,399 1,407 1,416 1,472 1,484 1,509 1,512 1,522 1,536 1,559 1,589 1,600 1,605 1,608 1,630 1,645 1,659 1,697 1,707 1,728 1}
+{0 1,6 1,51 1,72 1,75 1,77 1,88 1,90 1,138 1,188 1,238 1,285 1,294 1,306 1,318 1,332 1,336 1,359 1,366 1,367 1,391 1,399 1,400 1,416 1,423 1,432 1,435 1,444 1,501 1,509 1,558 1,559 1,605 1,623 1,643 1,659 1,662 1,682 1,704 1,707 1,710 1,719 1,725 1}
+{0 1,6 1,7 1,70 1,77 1,133 1,141 1,151 1,210 1,285 1,339 1,359 1,366 1,391 1,468 1,475 1,494 1,515 1,533 1,573 1,574 1,601 1,621 1,667 1}
+{0 1,75 1,90 1,102 1,138 1,187 1,188 1,210 1,213 1,234 1,237 1,265 1,283 1,285 1,303 1,318 1,343 1,359 1,366 1,367 1,400 1,423 1,481 1,501 1,518 1,552 1,557 1,572 1,596 1,604 1,643 1,682 1,704 1,710 1}
+{0 1,6 1,51 1,75 1,77 1,90 1,119 1,129 1,144 1,145 1,151 1,154 1,238 1,285 1,306 1,318 1,332 1,336 1,337 1,359 1,367 1,392 1,400 1,416 1,435 1,436 1,463 1,483 1,559 1,564 1,633 1,662 1,666 1,682 1,704 1,710 1,719 1}
+{0 1,38 1,45 1,70 1,73 1,75 1,119 1,120 1,123 1,129 1,174 1,185 1,186 1,188 1,234 1,237 1,265 1,283 1,288 1,303 1,310 1,318 1,359 1,399 1,416 1,427 1,461 1,481 1,484 1,493 1,495 1,515 1,589 1,597 1,633 1,650 1,681 1,684 1,697 1,704 1,716 1}
+{1 1,6 1,14 1,18 1,25 1,34 1,38 1,40 1,57 1,72 1,97 1,99 1,102 1,120 1,124 1,138 1,174 1,185 1,188 1,237 1,259 1,265 1,288 1,296 1,303 1,310 1,311 1,314 1,318 1,338 1,344 1,359 1,363 1,366 1,398 1,423 1,433 1,434 1,477 1,494 1,507 1,518 1,519 1,533 1,541 1,589 1,591 1,628 1,633 1,646 1,649 1,662 1,676 1,697 1,712 1,716 1,720 1,729 1}
+{0 1,6 1,27 1,34 1,38 1,45 1,73 1,97 1,106 1,120 1,123 1,142 1,145 1,174 1,234 1,236 1,237 1,263 1,265 1,273 1,285 1,286 1,293 1,302 1,310 1,318 1,325 1,338 1,340 1,359 1,366 1,368 1,416 1,423 1,433 1,434 1,474 1,488 1,501 1,507 1,518 1,533 1,556 1,589 1,591 1,616 1,630 1,632 1,633 1,662 1,679 1,684 1,697 1,704 1,713 1,720 1,726 1,728 1}
+{0 1,18 1,20 1,40 1,57 1,72 1,90 1,97 1,114 1,120 1,138 1,151 1,161 1,188 1,234 1,246 1,265 1,283 1,288 1,314 1,318 1,333 1,338 1,352 1,359 1,363 1,366 1,377 1,400 1,407 1,416 1,427 1,435 1,442 1,446 1,448 1,477 1,479 1,484 1,512 1,521 1,552 1,555 1,605 1,626 1,641 1,645 1,696 1,725 1,728 1}
+{0 1,20 1,34 1,38 1,60 1,90 1,102 1,120 1,124 1,126 1,138 1,151 1,161 1,188 1,189 1,213 1,222 1,248 1,253 1,265 1,285 1,288 1,310 1,318 1,319 1,333 1,338 1,359 1,368 1,376 1,377 1,407 1,416 1,435 1,493 1,512 1,516 1,555 1,589 1,648 1,697 1,702 1,704 1,715 1,722 1}
+{1 1,34 1,38 1,55 1,70 1,73 1,97 1,99 1,111 1,120 1,138 1,142 1,148 1,185 1,214 1,237 1,253 1,265 1,285 1,302 1,319 1,337 1,338 1,344 1,351 1,355 1,356 1,359 1,374 1,377 1,390 1,395 1,416 1,481 1,490 1,509 1,514 1,589 1,621 1,633 1,650 1,697 1,702 1,707 1,710 1}
+{0 1,18 1,21 1,38 1,70 1,89 1,90 1,102 1,116 1,120 1,138 1,148 1,161 1,174 1,177 1,187 1,188 1,237 1,265 1,285 1,310 1,318 1,337 1,344 1,355 1,359 1,370 1,393 1,399 1,416 1,434 1,442 1,458 1,474 1,481 1,490 1,495 1,514 1,521 1,525 1,555 1,589 1,630 1,633 1,681 1,684 1,697 1,702 1,704 1,707 1,710 1,715 1}
+{0 1,6 1,7 1,8 1,21 1,37 1,50 1,65 1,73 1,75 1,77 1,79 1,90 1,95 1,99 1,101 1,102 1,114 1,116 1,119 1,120 1,129 1,138 1,141 1,155 1,185 1,188 1,195 1,210 1,223 1,224 1,234 1,237 1,241 1,242 1,265 1,279 1,283 1,285 1,302 1,315 1,318 1,333 1,337 1,338 1,344 1,349 1,355 1,361 1,366 1,377 1,390 1,395 1,399 1,407 1,416 1,421 1,429 1,431 1,434 1,455 1,463 1,470 1,471 1,472 1,474 1,481 1,484 1,488 1,490 1,493 1,503 1,509 1,533 1,555 1,574 1,589 1,603 1,609 1,623 1,633 1,635 1,645 1,650 1,658 1,663 1,672 1,681 1,682 1,683 1,697 1,704 1,707 1,710 1,732 1}
+{1 1,14 1,15 1,18 1,57 1,63 1,70 1,89 1,97 1,103 1,120 1,124 1,138 1,161 1,188 1,222 1,234 1,237 1,241 1,265 1,273 1,285 1,338 1,343 1,344 1,355 1,359 1,363 1,366 1,390 1,407 1,416 1,427 1,434 1,474 1,475 1,484 1,494 1,518 1,521 1,555 1,556 1,566 1,570 1,572 1,591 1,616 1,623 1,646 1,659 1,697 1,707 1,728 1,729 1}
+{1 1,3 1,4 1,6 1,9 1,15 1,18 1,20 1,25 1,31 1,37 1,38 1,50 1,56 1,63 1,75 1,77 1,79 1,90 1,91 1,94 1,96 1,97 1,98 1,99 1,101 1,107 1,114 1,116 1,118 1,119 1,120 1,122 1,124 1,126 1,127 1,129 1,132 1,133 1,139 1,141 1,142 1,154 1,174 1,180 1,185 1,186 1,187 1,188 1,195 1,200 1,201 1,205 1,210 1,213 1,217 1,220 1,222 1,224 1,225 1,230 1,234 1,236 1,237 1,242 1,246 1,250 1,257 1,272 1,275 1,279 1,283 1,285 1,289 1,302 1,303 1,304 1,310 1,316 1,317 1,318 1,319 1,325 1,326 1,335 1,336 1,337 1,338 1,340 1,344 1,351 1,355 1,356 1,359 1,366 1,373 1,374 1,377 1,382 1,389 1,390 1,395 1,397 1,399 1,407 1,408 1,416 1,423 1,431 1,433 1,434 1,436 1,444 1,446 1,459 1,471 1,472 1,474 1,475 1,484 1,489 1,490 1,493 1,495 1,497 1,498 1,503 1,504 1,506 1,507 1,508 1,509 1,513 1,514 1,516 1,521 1,533 1,536 1,543 1,570 1,573 1,574 1,575 1,582 1,583 1,591 1,592 1,596 1,600 1,603 1,604 1,605 1,606 1,608 1,624 1,626 1,630 1,633 1,635 1,643 1,650 1,663 1,673 1,677 1,682 1,683 1,693 1,697 1,702 1,703 1,704 1,706 1,707 1,709 1,710 1,716 1,725 1,730 1,732 1,735 1}
+{0 1,6 1,13 1,15 1,16 1,18 1,28 1,31 1,35 1,37 1,45 1,49 1,55 1,67 1,68 1,72 1,74 1,75 1,81 1,86 1,89 1,90 1,94 1,95 1,97 1,98 1,114 1,118 1,119 1,120 1,122 1,124 1,126 1,133 1,141 1,154 1,165 1,169 1,179 1,185 1,186 1,187 1,188 1,200 1,205 1,210 1,211 1,213 1,218 1,221 1,224 1,225 1,227 1,230 1,234 1,237 1,239 1,241 1,265 1,267 1,275 1,279 1,285 1,294 1,310 1,318 1,319 1,335 1,336 1,355 1,377 1,387 1,389 1,395 1,399 1,407 1,413 1,431 1,436 1,444 1,446 1,455 1,463 1,471 1,472 1,474 1,475 1,481 1,484 1,488 1,491 1,495 1,498 1,503 1,504 1,507 1,509 1,511 1,512 1,521 1,525 1,533 1,536 1,542 1,543 1,553 1,564 1,574 1,582 1,584 1,589 1,591 1,604 1,624 1,626 1,630 1,633 1,635 1,645 1,650 1,666 1,672 1,680 1,681 1,682 1,683 1,691 1,697 1,700 1,702 1,704 1,710 1,714 1,722 1,730 1,735 1}
+{0 1,6 1,13 1,15 1,18 1,28 1,35 1,37 1,49 1,51 1,55 1,57 1,72 1,73 1,75 1,79 1,89 1,97 1,114 1,119 1,120 1,122 1,124 1,129 1,133 1,139 1,141 1,142 1,147 1,154 1,165 1,169 1,170 1,174 1,185 1,187 1,188 1,189 1,196 1,200 1,205 1,210 1,213 1,221 1,222 1,223 1,224 1,225 1,227 1,228 1,230 1,234 1,237 1,239 1,265 1,285 1,294 1,318 1,319 1,335 1,336 1,339 1,344 1,355 1,356 1,366 1,373 1,377 1,385 1,390 1,395 1,397 1,399 1,407 1,416 1,433 1,434 1,444 1,463 1,468 1,470 1,471 1,472 1,474 1,484 1,490 1,492 1,495 1,504 1,510 1,512 1,515 1,521 1,522 1,524 1,533 1,536 1,542 1,543 1,546 1,574 1,583 1,584 1,589 1,593 1,596 1,604 1,605 1,624 1,635 1,645 1,650 1,653 1,663 1,679 1,683 1,691 1,697 1,703 1,704 1,707 1,709 1,710 1,732 1,735 1,736 1}
+{0 1,18 1,38 1,40 1,58 1,70 1,72 1,73 1,99 1,102 1,120 1,124 1,138 1,176 1,187 1,202 1,234 1,237 1,259 1,265 1,283 1,285 1,303 1,310 1,318 1,337 1,338 1,366 1,373 1,399 1,416 1,427 1,434 1,461 1,474 1,476 1,481 1,484 1,493 1,515 1,521 1,582 1,589 1,597 1,604 1,633 1,651 1,659 1,670 1,684 1,697 1,704 1,720 1,728 1}
+{0 1,20 1,28 1,58 1,72 1,90 1,94 1,95 1,97 1,98 1,99 1,120 1,122 1,142 1,147 1,174 1,193 1,222 1,223 1,231 1,237 1,239 1,303 1,310 1,338 1,356 1,416 1,433 1,434 1,474 1,481 1,490 1,498 1,509 1,512 1,514 1,521 1,529 1,580 1,589 1,619 1,631 1,635 1,650 1,661 1,697 1,704 1,715 1,735 1}
+{0 1,6 1,13 1,21 1,38 1,70 1,102 1,116 1,120 1,185 1,188 1,234 1,237 1,265 1,285 1,310 1,359 1,366 1,387 1,390 1,399 1,416 1,427 1,461 1,484 1,493 1,495 1,533 1,589 1,604 1,645 1,681 1,697 1,704 1}
+{1 1,6 1,14 1,27 1,38 1,45 1,57 1,70 1,82 1,89 1,90 1,102 1,103 1,120 1,124 1,138 1,174 1,186 1,187 1,188 1,191 1,202 1,235 1,237 1,265 1,285 1,286 1,289 1,302 1,303 1,310 1,318 1,338 1,359 1,363 1,366 1,372 1,389 1,399 1,405 1,416 1,423 1,433 1,470 1,474 1,477 1,494 1,507 1,515 1,555 1,573 1,580 1,585 1,589 1,591 1,621 1,659 1,661 1,670 1,697 1,699 1}
+{0 1,6 1,21 1,38 1,57 1,70 1,72 1,97 1,100 1,102 1,120 1,124 1,134 1,140 1,158 1,161 1,174 1,185 1,188 1,222 1,237 1,265 1,285 1,312 1,315 1,319 1,355 1,359 1,363 1,377 1,416 1,434 1,442 1,474 1,479 1,495 1,521 1,525 1,589 1,626 1,648 1,650 1,697 1,707 1,710 1,715 1,727 1,728 1}
+{0 1,75 1,88 1,90 1,98 1,103 1,138 1,145 1,187 1,188 1,210 1,213 1,238 1,239 1,285 1,300 1,315 1,343 1,359 1,366 1,367 1,400 1,423 1,434 1,512 1,518 1,552 1,555 1,557 1,604 1,673 1,681 1,704 1,707 1,710 1,721 1,728 1}
+{0 1,6 1,39 1,90 1,97 1,99 1,101 1,112 1,116 1,120 1,138 1,185 1,186 1,188 1,222 1,223 1,237 1,265 1,275 1,285 1,303 1,318 1,319 1,337 1,338 1,359 1,363 1,366 1,416 1,427 1,461 1,472 1,476 1,484 1,515 1,516 1,521 1,536 1,564 1,579 1,589 1,604 1,623 1,630 1,697 1,707 1}
+{0 1,20 1,70 1,90 1,99 1,134 1,174 1,188 1,210 1,265 1,285 1,286 1,318 1,319 1,349 1,359 1,377 1,399 1,407 1,416 1,449 1,471 1,472 1,512 1,521 1,574 1,605 1,633 1,650 1,681 1,707 1,719 1}
+{0 1,3 1,13 1,20 1,37 1,54 1,90 1,99 1,102 1,112 1,116 1,120 1,138 1,161 1,187 1,188 1,222 1,237 1,265 1,285 1,303 1,319 1,328 1,338 1,368 1,390 1,399 1,407 1,434 1,445 1,457 1,516 1,557 1,570 1,574 1,589 1,604 1,623 1,657 1,702 1,704 1,715 1,720 1,728 1}
+{1 1,3 1,20 1,38 1,58 1,75 1,89 1,90 1,92 1,99 1,120 1,126 1,138 1,188 1,210 1,237 1,241 1,265 1,277 1,285 1,302 1,318 1,333 1,338 1,351 1,355 1,356 1,363 1,373 1,399 1,407 1,416 1,420 1,427 1,445 1,509 1,525 1,574 1,589 1,603 1,604 1,633 1,704 1,707 1}
+{0 1,6 1,14 1,25 1,38 1,40 1,57 1,97 1,120 1,123 1,185 1,202 1,222 1,223 1,234 1,237 1,256 1,263 1,265 1,285 1,325 1,359 1,363 1,366 1,369 1,390 1,416 1,423 1,434 1,463 1,468 1,476 1,477 1,488 1,494 1,507 1,533 1,572 1,585 1,623 1,630 1,636 1,681 1,697 1}
+{0 1,18 1,20 1,50 1,73 1,96 1,97 1,134 1,142 1,144 1,147 1,151 1,204 1,231 1,234 1,241 1,257 1,265 1,285 1,294 1,318 1,343 1,349 1,359 1,363 1,366 1,377 1,397 1,407 1,416 1,423 1,433 1,513 1,605 1,622 1,645 1,659 1,679 1,681 1,697 1,704 1,710 1}
+{1 1,4 1,6 1,18 1,57 1,73 1,97 1,99 1,112 1,113 1,120 1,123 1,145 1,147 1,152 1,187 1,188 1,202 1,222 1,234 1,236 1,237 1,241 1,253 1,265 1,279 1,288 1,303 1,307 1,310 1,312 1,318 1,325 1,338 1,348 1,355 1,359 1,366 1,377 1,470 1,476 1,512 1,513 1,523 1,566 1,589 1,600 1,643 1,674 1,676 1,687 1,697 1,704 1,708 1,715 1,722 1,728 1}
+{1 1,6 1,20 1,34 1,38 1,50 1,56 1,57 1,63 1,65 1,94 1,97 1,99 1,102 1,118 1,119 1,129 1,133 1,138 1,147 1,149 1,151 1,154 1,155 1,158 1,188 1,195 1,199 1,205 1,210 1,213 1,218 1,223 1,225 1,234 1,237 1,246 1,252 1,265 1,283 1,285 1,294 1,315 1,318 1,319 1,332 1,336 1,339 1,343 1,349 1,355 1,359 1,363 1,377 1,395 1,416 1,421 1,423 1,431 1,433 1,435 1,470 1,471 1,472 1,476 1,480 1,481 1,488 1,490 1,503 1,509 1,510 1,512 1,533 1,546 1,555 1,562 1,574 1,600 1,605 1,659 1,663 1,665 1,666 1,672 1,681 1,696 1,707 1,710 1,721 1,732 1}
+{1 1,9 1,15 1,16 1,18 1,20 1,31 1,34 1,37 1,39 1,50 1,59 1,74 1,75 1,99 1,114 1,116 1,119 1,120 1,123 1,128 1,129 1,133 1,142 1,143 1,146 1,147 1,148 1,151 1,154 1,155 1,158 1,188 1,195 1,199 1,205 1,210 1,213 1,216 1,218 1,220 1,221 1,224 1,225 1,234 1,237 1,241 1,253 1,265 1,272 1,277 1,283 1,285 1,294 1,315 1,318 1,322 1,325 1,332 1,338 1,349 1,355 1,359 1,366 1,373 1,377 1,390 1,391 1,392 1,395 1,397 1,399 1,401 1,416 1,427 1,431 1,433 1,436 1,442 1,450 1,451 1,463 1,468 1,469 1,470 1,471 1,472 1,481 1,488 1,490 1,503 1,509 1,521 1,531 1,533 1,546 1,574 1,579 1,589 1,600 1,602 1,603 1,608 1,620 1,623 1,633 1,635 1,643 1,645 1,656 1,658 1,672 1,673 1,681 1,683 1,697 1,702 1,704 1,705 1,706 1,707 1,715 1,720 1,728 1,730 1,732 1,735 1}
+{1 1,8 1,9 1,10 1,12 1,25 1,34 1,37 1,38 1,50 1,73 1,89 1,90 1,96 1,99 1,101 1,108 1,114 1,116 1,118 1,119 1,120 1,126 1,129 1,134 1,138 1,141 1,143 1,144 1,147 1,154 1,155 1,158 1,174 1,185 1,188 1,205 1,210 1,213 1,218 1,221 1,223 1,234 1,238 1,254 1,258 1,279 1,283 1,285 1,292 1,303 1,305 1,318 1,333 1,336 1,338 1,343 1,345 1,348 1,349 1,352 1,357 1,359 1,361 1,363 1,368 1,377 1,390 1,391 1,395 1,408 1,416 1,425 1,432 1,433 1,434 1,436 1,450 1,452 1,470 1,471 1,474 1,477 1,488 1,493 1,495 1,503 1,504 1,508 1,509 1,511 1,515 1,516 1,519 1,533 1,537 1,552 1,574 1,595 1,600 1,603 1,604 1,605 1,606 1,608 1,624 1,626 1,630 1,635 1,645 1,650 1,672 1,675 1,681 1,696 1,697 1,704 1,708 1,710 1,715 1,728 1,730 1,735 1}
+{0 1,9 1,20 1,34 1,37 1,39 1,45 1,55 1,63 1,68 1,73 1,77 1,89 1,96 1,99 1,112 1,114 1,119 1,120 1,123 1,129 1,141 1,142 1,147 1,187 1,188 1,193 1,195 1,196 1,202 1,205 1,213 1,223 1,225 1,234 1,237 1,241 1,257 1,265 1,283 1,285 1,288 1,294 1,303 1,315 1,318 1,319 1,322 1,332 1,343 1,344 1,349 1,351 1,355 1,358 1,361 1,363 1,364 1,377 1,390 1,395 1,397 1,399 1,416 1,419 1,421 1,431 1,433 1,434 1,451 1,455 1,470 1,471 1,472 1,475 1,476 1,480 1,481 1,488 1,490 1,503 1,504 1,509 1,513 1,521 1,522 1,533 1,536 1,537 1,542 1,564 1,574 1,583 1,589 1,617 1,623 1,633 1,645 1,647 1,652 1,656 1,671 1,672 1,673 1,675 1,681 1,683 1,697 1,704 1,705 1,708 1,710 1,715 1,735 1}
+{0 1,9 1,10 1,13 1,15 1,20 1,31 1,34 1,58 1,73 1,79 1,97 1,99 1,114 1,119 1,120 1,123 1,129 1,147 1,153 1,188 1,195 1,205 1,210 1,213 1,234 1,237 1,241 1,265 1,283 1,285 1,318 1,322 1,332 1,335 1,336 1,338 1,344 1,349 1,363 1,377 1,387 1,395 1,397 1,407 1,416 1,421 1,430 1,431 1,434 1,451 1,470 1,471 1,472 1,476 1,481 1,488 1,490 1,503 1,509 1,533 1,546 1,562 1,574 1,589 1,591 1,633 1,645 1,671 1,672 1,673 1,683 1,697 1,704 1,708 1,710 1,732 1,735 1}
+{0 1,9 1,10 1,13 1,20 1,38 1,58 1,73 1,96 1,99 1,119 1,129 1,147 1,187 1,188 1,205 1,210 1,213 1,220 1,225 1,234 1,237 1,265 1,283 1,285 1,288 1,303 1,332 1,343 1,344 1,349 1,363 1,377 1,390 1,407 1,416 1,419 1,430 1,431 1,434 1,451 1,471 1,472 1,476 1,481 1,488 1,490 1,503 1,509 1,513 1,521 1,532 1,533 1,546 1,564 1,574 1,583 1,623 1,633 1,645 1,651 1,652 1,672 1,681 1,683 1,690 1,708 1,710 1}
+{1 1,5 1,6 1,10 1,16 1,23 1,37 1,38 1,50 1,56 1,59 1,63 1,73 1,75 1,79 1,96 1,97 1,99 1,118 1,124 1,129 1,147 1,148 1,185 1,188 1,205 1,210 1,213 1,218 1,225 1,234 1,237 1,253 1,265 1,283 1,285 1,294 1,299 1,318 1,319 1,332 1,341 1,359 1,387 1,390 1,399 1,423 1,431 1,442 1,470 1,471 1,472 1,475 1,476 1,488 1,499 1,503 1,513 1,533 1,536 1,537 1,574 1,623 1,628 1,630 1,633 1,635 1,645 1,656 1,666 1,668 1,672 1,681 1,683 1,702 1,707 1,710 1,715 1,720 1,730 1,735 1}
+{0 1,9 1,10 1,20 1,37 1,50 1,70 1,72 1,73 1,91 1,96 1,99 1,114 1,116 1,117 1,119 1,129 1,138 1,147 1,149 1,155 1,161 1,186 1,188 1,189 1,200 1,213 1,217 1,230 1,234 1,238 1,246 1,253 1,265 1,288 1,294 1,299 1,302 1,318 1,319 1,320 1,322 1,332 1,336 1,343 1,344 1,345 1,353 1,359 1,360 1,361 1,363 1,369 1,377 1,382 1,395 1,397 1,408 1,416 1,421 1,450 1,451 1,470 1,471 1,472 1,474 1,475 1,481 1,503 1,504 1,509 1,513 1,519 1,521 1,532 1,555 1,564 1,583 1,591 1,600 1,602 1,633 1,645 1,672 1,673 1,674 1,676 1,681 1,697 1,704 1,705 1,710 1,713 1}
+{0 1,6 1,9 1,20 1,54 1,70 1,73 1,97 1,114 1,147 1,188 1,234 1,265 1,283 1,285 1,318 1,319 1,332 1,395 1,416 1,421 1,451 1,476 1,477 1,484 1,501 1,564 1,589 1,623 1,633 1,651 1,652 1,681 1,697 1,735 1}
+{1 1,20 1,53 1,57 1,70 1,75 1,81 1,96 1,97 1,102 1,120 1,138 1,188 1,222 1,223 1,237 1,253 1,265 1,285 1,318 1,337 1,344 1,351 1,359 1,416 1,476 1,481 1,530 1,533 1,574 1,577 1,621 1,681 1,696 1,707 1,715 1}
+{1 1,9 1,21 1,53 1,73 1,114 1,120 1,142 1,187 1,212 1,229 1,256 1,265 1,279 1,286 1,303 1,342 1,344 1,349 1,379 1,390 1,397 1,421 1,430 1,433 1,451 1,472 1,476 1,481 1,488 1,512 1,521 1,583 1,591 1,623 1,661 1,670 1,679 1,681 1,697 1,708 1}
+{0 1,6 1,10 1,20 1,70 1,73 1,97 1,99 1,114 1,120 1,134 1,143 1,155 1,202 1,205 1,210 1,221 1,234 1,237 1,244 1,270 1,288 1,318 1,333 1,339 1,344 1,348 1,355 1,368 1,389 1,459 1,470 1,476 1,498 1,504 1,552 1,570 1,596 1,597 1,630 1,635 1,652 1,675 1}
+{1 1,34 1,38 1,43 1,132 1,147 1,187 1,188 1,234 1,285 1,294 1,303 1,318 1,332 1,349 1,359 1,390 1,395 1,430 1,451 1,476 1,509 1,533 1,623 1,681 1,697 1,707 1}
+{0 1,20 1,34 1,49 1,73 1,99 1,105 1,114 1,138 1,174 1,188 1,210 1,218 1,234 1,265 1,285 1,303 1,318 1,348 1,363 1,416 1,433 1,442 1,451 1,472 1,481 1,589 1,600 1,633 1,666 1,673 1,697 1,710 1,715 1}
+{0 1,9 1,20 1,34 1,54 1,73 1,188 1,218 1,234 1,253 1,265 1,285 1,303 1,318 1,344 1,359 1,364 1,424 1,430 1,433 1,476 1,481 1,484 1,503 1,574 1,591 1,633 1,648 1,710 1}
+{1 1,37 1,58 1,63 1,97 1,116 1,118 1,147 1,151 1,188 1,210 1,253 1,265 1,307 1,318 1,332 1,397 1,451 1,459 1,468 1,481 1,509 1,513 1,567 1,568 1,600 1,628 1,645 1,659 1,681 1,697 1,712 1,718 1}
+{0 1,20 1,34 1,49 1,58 1,129 1,210 1,294 1,332 1,429 1,471 1,472 1,533 1,558 1,574 1,645 1,672 1,718 1}
+{0 1,20 1,34 1,38 1,97 1,100 1,120 1,142 1,151 1,218 1,285 1,318 1,322 1,344 1,348 1,377 1,395 1,407 1,416 1,490 1,531 1,533 1,549 1,589 1,591 1,599 1,623 1,645 1,650 1,656 1,659 1,681 1,697 1,707 1,710 1}
+{0 1,20 1,34 1,58 1,73 1,99 1,120 1,186 1,188 1,218 1,234 1,241 1,253 1,265 1,285 1,307 1,318 1,319 1,340 1,344 1,349 1,356 1,366 1,370 1,377 1,397 1,416 1,430 1,451 1,476 1,481 1,484 1,522 1,567 1,586 1,623 1,630 1,633 1,651 1,656 1,681 1,697 1,707 1,708 1,728 1,735 1}
+{1 1,9 1,20 1,73 1,97 1,110 1,188 1,218 1,234 1,241 1,265 1,283 1,285 1,315 1,318 1,332 1,340 1,343 1,355 1,359 1,395 1,416 1,424 1,478 1,484 1,513 1,589 1,623 1,633 1,681 1,697 1,720 1}
+{1 1,20 1,34 1,49 1,89 1,138 1,144 1,186 1,188 1,190 1,234 1,237 1,241 1,265 1,285 1,315 1,318 1,344 1,359 1,397 1,407 1,416 1,430 1,484 1,533 1,641 1,645 1,652 1,673 1,681 1}
+{1 1,34 1,40 1,58 1,73 1,89 1,120 1,123 1,138 1,142 1,146 1,151 1,186 1,202 1,234 1,238 1,253 1,265 1,285 1,322 1,343 1,344 1,355 1,357 1,359 1,377 1,397 1,416 1,423 1,433 1,476 1,481 1,555 1,623 1,645 1,659 1,660 1,697 1,704 1}
+{1 1,9 1,34 1,51 1,99 1,118 1,126 1,138 1,149 1,151 1,186 1,190 1,202 1,224 1,234 1,238 1,241 1,253 1,265 1,285 1,318 1,333 1,338 1,343 1,355 1,357 1,366 1,407 1,430 1,433 1,451 1,476 1,481 1,484 1,557 1,574 1,618 1,620 1,623 1,645 1,652 1,659 1,663 1,673 1,716 1}
+{1 1,34 1,38 1,50 1,58 1,70 1,97 1,100 1,120 1,139 1,144 1,147 1,207 1,234 1,238 1,239 1,241 1,265 1,285 1,319 1,333 1,348 1,349 1,355 1,357 1,359 1,363 1,366 1,407 1,416 1,419 1,423 1,433 1,442 1,451 1,458 1,475 1,476 1,481 1,533 1,574 1,645 1,659 1,672 1,673 1,681 1,696 1}
+{1 1,75 1,141 1,265 1,315 1,332 1,344 1,364 1,369 1,387 1,429 1,451 1,472 1,603 1,623 1,633 1,673 1,715 1}
+{1 1,18 1,20 1,34 1,51 1,97 1,99 1,100 1,119 1,124 1,138 1,141 1,146 1,151 1,210 1,216 1,241 1,265 1,285 1,315 1,332 1,344 1,359 1,377 1,416 1,423 1,451 1,463 1,469 1,476 1,499 1,533 1,556 1,591 1,628 1,645 1,652 1,659 1}
+{0 1,20 1,51 1,58 1,68 1,73 1,97 1,119 1,138 1,234 1,237 1,239 1,241 1,253 1,283 1,285 1,344 1,349 1,359 1,366 1,397 1,407 1,416 1,420 1,451 1,463 1,476 1,481 1,490 1,503 1,521 1,549 1,555 1,623 1,645 1,659 1,673 1,697 1,715 1}
+{1 1,17 1,34 1,56 1,57 1,58 1,73 1,75 1,89 1,97 1,99 1,119 1,124 1,129 1,141 1,144 1,210 1,213 1,224 1,225 1,234 1,239 1,241 1,253 1,265 1,274 1,283 1,285 1,294 1,315 1,318 1,319 1,322 1,332 1,343 1,349 1,361 1,366 1,377 1,381 1,382 1,387 1,390 1,395 1,429 1,451 1,469 1,472 1,476 1,481 1,488 1,490 1,499 1,503 1,509 1,513 1,518 1,533 1,537 1,546 1,549 1,555 1,556 1,589 1,618 1,628 1,645 1,659 1,666 1,672 1,681 1,683 1,697 1,705 1,710 1,715 1}
+{1 1,4 1,9 1,15 1,34 1,40 1,49 1,58 1,60 1,73 1,75 1,78 1,97 1,99 1,100 1,112 1,118 1,119 1,120 1,129 1,138 1,140 1,142 1,144 1,146 1,148 1,151 1,190 1,195 1,199 1,205 1,210 1,213 1,224 1,225 1,234 1,237 1,265 1,283 1,285 1,294 1,315 1,318 1,319 1,322 1,332 1,348 1,349 1,351 1,355 1,359 1,361 1,365 1,377 1,387 1,390 1,395 1,407 1,413 1,416 1,429 1,433 1,451 1,470 1,471 1,472 1,475 1,476 1,488 1,490 1,503 1,509 1,513 1,521 1,533 1,536 1,556 1,574 1,578 1,583 1,589 1,591 1,609 1,623 1,645 1,659 1,673 1,683 1,696 1,710 1,715 1}
+{1 1,34 1,40 1,56 1,58 1,73 1,75 1,97 1,99 1,118 1,119 1,129 1,142 1,144 1,146 1,147 1,200 1,210 1,213 1,225 1,234 1,237 1,241 1,246 1,265 1,283 1,285 1,294 1,315 1,318 1,319 1,322 1,332 1,348 1,349 1,355 1,357 1,359 1,377 1,382 1,387 1,395 1,397 1,413 1,421 1,429 1,433 1,451 1,468 1,469 1,472 1,476 1,481 1,488 1,490 1,509 1,513 1,533 1,556 1,589 1,645 1,659 1,672 1,673 1,683 1,705 1,710 1,715 1}
+{1 1,144 1,300 1}
+{1 1,34 1,50 1,51 1,56 1,58 1,63 1,70 1,79 1,81 1,92 1,99 1,118 1,119 1,124 1,129 1,138 1,141 1,142 1,144 1,146 1,147 1,148 1,151 1,186 1,190 1,205 1,210 1,213 1,224 1,225 1,234 1,237 1,241 1,253 1,264 1,265 1,280 1,283 1,285 1,288 1,294 1,315 1,318 1,319 1,322 1,332 1,343 1,344 1,349 1,355 1,357 1,359 1,365 1,366 1,377 1,387 1,392 1,395 1,397 1,413 1,416 1,421 1,429 1,433 1,450 1,451 1,468 1,470 1,472 1,481 1,488 1,489 1,490 1,498 1,503 1,506 1,509 1,513 1,536 1,542 1,549 1,556 1,574 1,583 1,589 1,623 1,645 1,647 1,659 1,672 1,673 1,683 1,705 1,710 1,715 1,735 1}
+{1 1,13 1,51 1,57 1,58 1,59 1,70 1,73 1,75 1,90 1,97 1,99 1,116 1,119 1,120 1,124 1,126 1,129 1,138 1,144 1,146 1,147 1,148 1,151 1,153 1,180 1,186 1,205 1,210 1,212 1,213 1,223 1,224 1,225 1,234 1,237 1,241 1,253 1,264 1,265 1,283 1,285 1,288 1,315 1,322 1,336 1,344 1,349 1,355 1,356 1,357 1,359 1,361 1,363 1,369 1,373 1,382 1,387 1,388 1,389 1,390 1,392 1,395 1,416 1,421 1,429 1,433 1,450 1,451 1,468 1,469 1,470 1,471 1,472 1,481 1,488 1,490 1,503 1,509 1,513 1,533 1,542 1,546 1,549 1,556 1,564 1,574 1,583 1,589 1,600 1,623 1,628 1,645 1,650 1,659 1,672 1,673 1,683 1,697 1,706 1,710 1,713 1,715 1,735 1}
+{0 1,6 1,18 1,46 1,70 1,72 1,90 1,97 1,99 1,116 1,120 1,126 1,127 1,133 1,138 1,139 1,161 1,174 1,180 1,187 1,188 1,237 1,253 1,265 1,279 1,285 1,304 1,310 1,338 1,344 1,349 1,370 1,373 1,377 1,391 1,392 1,402 1,407 1,416 1,421 1,446 1,512 1,515 1,529 1,600 1,605 1,620 1,629 1,659 1,697 1,707 1,716 1,728 1,733 1}
+{0 1,20 1,73 1,77 1,89 1,97 1,151 1,223 1,230 1,241 1,245 1,265 1,319 1,332 1,338 1,341 1,356 1,359 1,377 1,395 1,405 1,416 1,481 1,522 1,582 1,589 1,620 1,623 1,633 1,697 1,707 1,714 1,715 1,718 1}
+{0 1,20 1,38 1,57 1,70 1,72 1,97 1,117 1,122 1,134 1,138 1,166 1,188 1,210 1,237 1,253 1,271 1,285 1,330 1,332 1,349 1,359 1,363 1,368 1,388 1,391 1,395 1,423 1,444 1,461 1,516 1,529 1,533 1,541 1,555 1,600 1,635 1,659 1}
+{0 1,6 1,20 1,74 1,90 1,99 1,102 1,117 1,120 1,138 1,166 1,174 1,178 1,185 1,188 1,222 1,223 1,234 1,237 1,238 1,253 1,293 1,325 1,338 1,344 1,359 1,390 1,393 1,399 1,416 1,433 1,455 1,476 1,494 1,515 1,521 1,531 1,559 1,572 1,603 1,623 1,647 1,681 1,710 1,715 1,728 1}
+{0 1,6 1,20 1,27 1,33 1,38 1,72 1,73 1,97 1,102 1,113 1,117 1,120 1,121 1,133 1,138 1,149 1,174 1,187 1,188 1,207 1,237 1,241 1,253 1,265 1,285 1,302 1,303 1,310 1,319 1,325 1,348 1,359 1,423 1,494 1,501 1,509 1,513 1,531 1,555 1,572 1,608 1,630 1,633 1,650 1,659 1,669 1,674 1,676 1,677 1,681 1,697 1,707 1,710 1,728 1}
+{0 1,6 1,10 1,15 1,37 1,38 1,56 1,57 1,58 1,59 1,63 1,65 1,70 1,73 1,79 1,89 1,90 1,96 1,97 1,98 1,99 1,101 1,116 1,118 1,119 1,129 1,133 1,138 1,143 1,146 1,147 1,154 1,181 1,187 1,200 1,210 1,213 1,223 1,230 1,237 1,241 1,242 1,253 1,259 1,265 1,266 1,267 1,283 1,285 1,291 1,293 1,302 1,303 1,305 1,318 1,319 1,332 1,338 1,339 1,342 1,348 1,349 1,352 1,355 1,358 1,363 1,364 1,370 1,377 1,382 1,387 1,390 1,395 1,416 1,421 1,426 1,431 1,433 1,434 1,446 1,463 1,469 1,470 1,471 1,475 1,486 1,488 1,489 1,490 1,492 1,493 1,495 1,496 1,503 1,506 1,509 1,512 1,513 1,516 1,531 1,533 1,546 1,574 1,583 1,588 1,589 1,606 1,635 1,643 1,645 1,659 1,663 1,672 1,677 1,683 1,697 1,699 1,702 1,704 1,706 1,708 1,710 1,715 1,717 1,728 1,730 1,731 1,732 1,733 1,735 1}
+{0 1,6 1,15 1,20 1,44 1,45 1,50 1,54 1,65 1,70 1,73 1,90 1,99 1,116 1,119 1,123 1,126 1,129 1,132 1,138 1,147 1,185 1,188 1,210 1,223 1,230 1,234 1,237 1,241 1,265 1,266 1,285 1,294 1,310 1,318 1,332 1,338 1,339 1,359 1,363 1,370 1,390 1,395 1,408 1,444 1,451 1,469 1,471 1,472 1,476 1,488 1,491 1,493 1,503 1,509 1,516 1,525 1,529 1,533 1,546 1,574 1,589 1,600 1,620 1,623 1,645 1,659 1,663 1,681 1,702 1,706 1,733 1,735 1}
+{0 1,6 1,18 1,20 1,22 1,25 1,28 1,31 1,38 1,43 1,44 1,53 1,55 1,57 1,59 1,60 1,65 1,68 1,70 1,72 1,73 1,74 1,75 1,79 1,89 1,94 1,96 1,97 1,99 1,101 1,114 1,119 1,132 1,138 1,141 1,154 1,166 1,169 1,174 1,179 1,184 1,187 1,188 1,189 1,196 1,200 1,205 1,210 1,213 1,219 1,221 1,223 1,224 1,225 1,230 1,234 1,237 1,241 1,265 1,266 1,277 1,285 1,286 1,294 1,300 1,302 1,303 1,317 1,318 1,319 1,320 1,323 1,328 1,332 1,334 1,335 1,339 1,341 1,351 1,356 1,359 1,363 1,366 1,373 1,374 1,377 1,380 1,387 1,390 1,411 1,413 1,416 1,423 1,425 1,432 1,433 1,434 1,436 1,440 1,451 1,463 1,469 1,470 1,472 1,475 1,484 1,488 1,491 1,492 1,495 1,497 1,498 1,503 1,507 1,509 1,511 1,514 1,515 1,527 1,529 1,530 1,531 1,533 1,537 1,543 1,555 1,558 1,564 1,572 1,574 1,575 1,581 1,582 1,583 1,596 1,603 1,608 1,613 1,620 1,623 1,626 1,633 1,636 1,645 1,648 1,656 1,663 1,672 1,681 1,682 1,683 1,697 1,698 1,702 1,708 1,709 1,710 1,718 1,728 1,731 1,732 1,734 1}
+{0 1,6 1,16 1,20 1,33 1,37 1,55 1,56 1,57 1,58 1,63 1,68 1,73 1,74 1,75 1,101 1,116 1,119 1,123 1,129 1,132 1,138 1,147 1,186 1,187 1,188 1,201 1,205 1,223 1,230 1,237 1,244 1,253 1,265 1,266 1,283 1,285 1,286 1,294 1,314 1,315 1,318 1,319 1,332 1,338 1,344 1,355 1,358 1,363 1,373 1,377 1,380 1,387 1,390 1,399 1,413 1,416 1,434 1,436 1,452 1,459 1,468 1,470 1,471 1,472 1,476 1,481 1,493 1,497 1,509 1,510 1,511 1,521 1,533 1,536 1,546 1,553 1,564 1,574 1,582 1,608 1,630 1,633 1,645 1,650 1,670 1,681 1,683 1,696 1,704 1,705 1,706 1,715 1,732 1}
+{0 1,20 1,68 1,73 1,89 1,97 1,123 1,188 1,218 1,237 1,239 1,241 1,265 1,285 1,318 1,319 1,332 1,344 1,356 1,358 1,366 1,416 1,423 1,434 1,472 1,476 1,509 1,513 1,522 1,574 1,589 1,609 1,623 1,630 1,636 1,645 1,659 1,660 1,681 1}
+{0 1,10 1,55 1,57 1,73 1,95 1,97 1,99 1,102 1,123 1,185 1,188 1,204 1,234 1,266 1,294 1,303 1,318 1,338 1,339 1,343 1,366 1,416 1,434 1,464 1,474 1,477 1,509 1,521 1,532 1,572 1,574 1,623 1,630 1,633 1,704 1,707 1,715 1,718 1,735 1}
+{0 1,18 1,90 1,102 1,116 1,129 1,133 1,151 1,161 1,223 1,265 1,310 1,315 1,332 1,338 1,339 1,373 1,377 1,387 1,399 1,416 1,421 1,427 1,472 1,498 1,513 1,515 1,531 1,574 1,589 1,603 1,633 1,672 1,707 1,715 1,718 1}
+{1 1,4 1,6 1,9 1,13 1,15 1,16 1,31 1,37 1,39 1,44 1,45 1,49 1,55 1,56 1,57 1,59 1,62 1,65 1,66 1,68 1,70 1,72 1,73 1,76 1,79 1,88 1,89 1,97 1,98 1,99 1,105 1,114 1,116 1,117 1,119 1,120 1,123 1,126 1,129 1,133 1,134 1,135 1,136 1,138 1,139 1,141 1,142 1,144 1,146 1,147 1,149 1,184 1,185 1,186 1,187 1,188 1,195 1,199 1,200 1,204 1,205 1,210 1,213 1,223 1,224 1,225 1,230 1,234 1,236 1,237 1,241 1,245 1,247 1,254 1,255 1,257 1,272 1,285 1,294 1,311 1,314 1,317 1,318 1,319 1,324 1,332 1,335 1,338 1,339 1,344 1,355 1,356 1,359 1,366 1,370 1,373 1,377 1,387 1,390 1,395 1,399 1,410 1,411 1,412 1,413 1,416 1,421 1,425 1,431 1,434 1,437 1,442 1,451 1,455 1,460 1,463 1,468 1,470 1,471 1,472 1,475 1,488 1,490 1,495 1,498 1,499 1,509 1,510 1,514 1,515 1,521 1,527 1,530 1,533 1,537 1,546 1,549 1,574 1,582 1,583 1,589 1,591 1,592 1,603 1,623 1,632 1,633 1,636 1,645 1,647 1,649 1,650 1,652 1,663 1,671 1,672 1,676 1,677 1,679 1,681 1,683 1,684 1,693 1,697 1,699 1,700 1,702 1,703 1,704 1,705 1,707 1,710 1,715 1,716 1,717 1,728 1,732 1,735 1}
+{0 1,6 1,18 1,90 1,97 1,99 1,118 1,120 1,123 1,149 1,161 1,187 1,188 1,238 1,239 1,241 1,253 1,265 1,285 1,303 1,310 1,319 1,327 1,338 1,343 1,355 1,359 1,397 1,402 1,407 1,416 1,423 1,444 1,451 1,493 1,495 1,516 1,521 1,531 1,589 1,600 1,602 1,629 1,645 1,659 1,697 1,707 1,720 1}
+{1 1,6 1,51 1,70 1,72 1,73 1,89 1,94 1,99 1,120 1,124 1,138 1,188 1,237 1,241 1,265 1,285 1,310 1,318 1,338 1,363 1,366 1,377 1,399 1,411 1,420 1,432 1,442 1,481 1,515 1,516 1,521 1,564 1,589 1,633 1,676 1,677 1,697 1,708 1,710 1,715 1}
+{0 1,20 1,51 1,57 1,90 1,99 1,138 1,161 1,186 1,188 1,237 1,241 1,253 1,265 1,285 1,310 1,332 1,336 1,359 1,363 1,366 1,390 1,416 1,430 1,481 1,495 1,521 1,578 1,589 1,620 1,633 1,681 1,697 1,702 1,704 1,707 1,710 1,715 1,716 1}
+{1 1,4 1,6 1,15 1,18 1,20 1,58 1,70 1,97 1,99 1,102 1,116 1,120 1,122 1,138 1,149 1,161 1,188 1,219 1,222 1,237 1,239 1,288 1,310 1,338 1,343 1,344 1,349 1,359 1,367 1,368 1,377 1,397 1,416 1,423 1,434 1,474 1,521 1,529 1,541 1,549 1,552 1,557 1,564 1,608 1,621 1,677 1,697 1,704 1,707 1,710 1}
+{1 1,18 1,57 1,62 1,70 1,90 1,97 1,101 1,120 1,122 1,124 1,134 1,140 1,161 1,189 1,202 1,205 1,231 1,237 1,253 1,265 1,285 1,303 1,333 1,338 1,359 1,360 1,363 1,364 1,367 1,368 1,377 1,407 1,413 1,477 1,512 1,515 1,521 1,552 1,555 1,645 1,687 1,697 1,704 1,707 1,715 1,728 1}
+{1 1,25 1,73 1,97 1,99 1,100 1,112 1,113 1,116 1,129 1,187 1,188 1,198 1,202 1,204 1,219 1,221 1,237 1,241 1,257 1,265 1,296 1,302 1,318 1,319 1,338 1,339 1,359 1,363 1,366 1,370 1,377 1,392 1,407 1,442 1,474 1,492 1,521 1,527 1,531 1,564 1,600 1,605 1,608 1,624 1,633 1,649 1,661 1,676 1,681 1,697 1,704 1,710 1}
+{0 1,6 1,10 1,20 1,70 1,90 1,97 1,119 1,122 1,124 1,133 1,134 1,138 1,149 1,188 1,202 1,218 1,223 1,234 1,237 1,265 1,288 1,332 1,348 1,359 1,366 1,370 1,377 1,416 1,433 1,476 1,495 1,499 1,521 1,522 1,527 1,591 1,609 1,620 1,621 1,623 1,633 1,636 1,670 1,681 1,697 1,710 1,715 1,728 1}
+{0 1,21 1,38 1,58 1,70 1,96 1,97 1,129 1,134 1,151 1,158 1,174 1,188 1,236 1,239 1,241 1,294 1,315 1,416 1,423 1,472 1,521 1,531 1,533 1,538 1,574 1,650 1,659 1,681 1,698 1,707 1}
+{0 1,4 1,54 1,139 1,185 1,265 1,286 1,288 1,303 1,305 1,318 1,336 1,344 1,355 1,359 1,366 1,368 1,374 1,399 1,402 1,407 1,413 1,471 1,475 1,481 1,521 1,533 1,552 1,555 1,557 1,570 1,645 1,672 1,681 1,707 1,715 1,735 1}
+{1 1,20 1,57 1,82 1,97 1,99 1,100 1,116 1,120 1,134 1,161 1,188 1,219 1,222 1,223 1,237 1,238 1,239 1,265 1,285 1,302 1,308 1,324 1,333 1,344 1,359 1,370 1,384 1,395 1,400 1,416 1,434 1,436 1,446 1,470 1,474 1,488 1,493 1,507 1,509 1,533 1,536 1,590 1,681 1,697 1,700 1,715 1,729 1}
+{1 1,63 1,90 1,116 1,120 1,138 1,176 1,189 1,193 1,213 1,237 1,246 1,273 1,277 1,303 1,307 1,363 1,370 1,377 1,389 1,445 1,451 1,516 1,582 1,589 1,596 1,617 1,623 1,643 1,681 1,684 1,718 1,725 1,735 1}
+{0 1,6 1,58 1,65 1,70 1,72 1,90 1,99 1,118 1,123 1,126 1,148 1,188 1,213 1,222 1,238 1,265 1,285 1,318 1,319 1,333 1,338 1,339 1,344 1,359 1,366 1,389 1,416 1,423 1,441 1,442 1,455 1,515 1,518 1,557 1,596 1,608 1,620 1,623 1,630 1,642 1,665 1,702 1,704 1,707 1,720 1,727 1,735 1}
+{0 1,14 1,57 1,97 1,99 1,118 1,138 1,145 1,179 1,185 1,188 1,202 1,234 1,237 1,241 1,285 1,318 1,319 1,332 1,348 1,359 1,377 1,407 1,470 1,508 1,521 1,531 1,533 1,557 1,578 1,589 1,600 1,623 1,633 1,664 1,676 1,681 1,697 1,699 1,704 1,707 1,708 1,715 1,728 1,735 1}
+{0 1,6 1,21 1,70 1,75 1,90 1,97 1,102 1,111 1,120 1,138 1,148 1,161 1,188 1,196 1,223 1,251 1,265 1,285 1,315 1,319 1,320 1,355 1,363 1,366 1,373 1,416 1,423 1,495 1,507 1,512 1,531 1,572 1,574 1,623 1,630 1,645 1,659 1,677 1,681 1,707 1,716 1}
+{1 1,37 1,68 1,75 1,77 1,118 1,120 1,123 1,134 1,166 1,174 1,188 1,189 1,222 1,277 1,285 1,359 1,397 1,399 1,442 1,451 1,492 1,570 1,590 1,596 1,623 1,652 1,707 1}
+{0 1,21 1,53 1,70 1,89 1,97 1,99 1,148 1,185 1,188 1,265 1,318 1,319 1,339 1,355 1,374 1,377 1,413 1,433 1,455 1,521 1,533 1,589 1,603 1,650 1,659 1,681 1,704 1,735 1}
+{0 1,6 1,15 1,21 1,40 1,138 1,161 1,234 1,265 1,318 1,319 1,327 1,361 1,367 1,373 1,397 1,402 1,407 1,416 1,418 1,423 1,431 1,435 1,451 1,474 1,508 1,514 1,557 1,582 1,590 1,645 1,659 1,681 1,697 1,735 1}
+{0 1,6 1,21 1,25 1,30 1,90 1,97 1,99 1,102 1,116 1,120 1,126 1,148 1,161 1,174 1,185 1,188 1,189 1,222 1,253 1,265 1,285 1,298 1,303 1,310 1,318 1,328 1,338 1,339 1,359 1,377 1,389 1,392 1,400 1,416 1,510 1,531 1,557 1,590 1,659 1,697 1,702 1,704 1,707 1}
+{0 1,6 1,70 1,72 1,75 1,99 1,116 1,119 1,138 1,148 1,185 1,189 1,234 1,265 1,285 1,303 1,318 1,359 1,375 1,377 1,386 1,399 1,402 1,416 1,427 1,514 1,515 1,531 1,557 1,590 1,591 1,623 1,645 1,659 1,663 1,681 1,697 1,704 1,725 1}
+{0 1,10 1,15 1,18 1,57 1,72 1,82 1,99 1,111 1,119 1,134 1,138 1,140 1,149 1,174 1,188 1,205 1,210 1,213 1,222 1,236 1,241 1,253 1,265 1,279 1,285 1,291 1,318 1,325 1,336 1,338 1,366 1,389 1,397 1,444 1,464 1,472 1,500 1,506 1,515 1,531 1,564 1,570 1,572 1,573 1,600 1,630 1,653 1,659 1,697 1,707 1,715 1}
+{0 1,20 1,57 1,70 1,75 1,77 1,90 1,99 1,102 1,111 1,120 1,138 1,142 1,144 1,164 1,174 1,185 1,189 1,202 1,222 1,223 1,235 1,238 1,265 1,288 1,303 1,318 1,336 1,349 1,351 1,362 1,369 1,379 1,399 1,407 1,416 1,433 1,465 1,470 1,474 1,502 1,507 1,531 1,548 1,578 1,605 1,608 1,621 1,628 1,649 1,681 1,694 1,697 1,704 1,706 1,712 1,715 1,720 1,728 1}
+{0 1,50 1,57 1,77 1,90 1,95 1,118 1,120 1,123 1,138 1,149 1,188 1,213 1,222 1,237 1,241 1,265 1,273 1,283 1,288 1,309 1,319 1,337 1,338 1,366 1,373 1,377 1,390 1,410 1,416 1,445 1,449 1,458 1,476 1,481 1,521 1,564 1,589 1,596 1,603 1,608 1,621 1,623 1,697 1,704 1,715 1,716 1,729 1}
+{1 1,55 1,57 1,68 1,72 1,285 1,303 1,331 1,399 1,589 1,623 1,631 1}
+{0 1,10 1,25 1,58 1,88 1,90 1,120 1,123 1,126 1,138 1,139 1,142 1,174 1,187 1,193 1,223 1,237 1,265 1,277 1,285 1,310 1,318 1,344 1,359 1,366 1,377 1,389 1,399 1,402 1,412 1,413 1,416 1,491 1,492 1,493 1,507 1,516 1,529 1,590 1,603 1,620 1,645 1,652 1,659 1,681 1,697 1,704 1,707 1,716 1}
+{0 1,6 1,20 1,66 1,90 1,116 1,119 1,129 1,138 1,144 1,213 1,241 1,253 1,265 1,318 1,333 1,364 1,371 1,407 1,441 1,470 1,495 1,516 1,521 1,557 1,596 1,650 1,659 1,672 1,681 1,697 1,707 1,720 1,728 1,735 1}
+{0 1,95 1,102 1,118 1,126 1,129 1,134 1,210 1,223 1,239 1,265 1,285 1,303 1,355 1,389 1,437 1,470 1,471 1,475 1,481 1,514 1,651 1,672 1,681 1,704 1}
+{0 1,54 1,75 1,97 1,102 1,242 1,265 1,285 1,318 1,488 1,533 1,582 1,590 1,623 1,633 1,650 1,681 1,697 1,707 1}
+{0 1,6 1,21 1,37 1,55 1,70 1,75 1,88 1,90 1,102 1,114 1,120 1,126 1,138 1,185 1,210 1,265 1,285 1,287 1,318 1,349 1,373 1,391 1,427 1,445 1,451 1,472 1,493 1,495 1,501 1,514 1,570 1,582 1,584 1,600 1,621 1,650 1,659 1,681 1,697 1}
+{0 1,6 1,70 1,77 1,123 1,138 1,161 1,185 1,187 1,188 1,223 1,257 1,259 1,265 1,272 1,279 1,285 1,302 1,318 1,343 1,344 1,348 1,371 1,373 1,377 1,416 1,429 1,451 1,476 1,514 1,516 1,521 1,529 1,533 1,555 1,590 1,596 1,603 1,609 1,623 1,633 1,681 1,697 1,704 1,707 1,712 1,716 1}
+{0 1,20 1,58 1,70 1,88 1,90 1,119 1,138 1,188 1,207 1,222 1,237 1,253 1,275 1,285 1,307 1,318 1,319 1,336 1,338 1,339 1,351 1,355 1,359 1,366 1,407 1,416 1,423 1,427 1,441 1,494 1,496 1,503 1,512 1,516 1,531 1,536 1,553 1,557 1,590 1,596 1,608 1,617 1,623 1,643 1,697 1,701 1,707 1,712 1,725 1,730 1}
+{0 1,13 1,65 1,90 1,100 1,101 1,102 1,119 1,126 1,138 1,148 1,188 1,213 1,223 1,265 1,275 1,285 1,318 1,319 1,338 1,359 1,371 1,377 1,407 1,416 1,474 1,508 1,509 1,512 1,515 1,521 1,555 1,557 1,570 1,590 1,596 1,608 1,623 1,633 1,697 1,704 1,707 1,719 1,735 1}
+{0 1,21 1,32 1,57 1,70 1,88 1,118 1,123 1,138 1,188 1,189 1,200 1,237 1,241 1,265 1,285 1,286 1,318 1,344 1,359 1,377 1,399 1,407 1,412 1,416 1,474 1,501 1,514 1,521 1,531 1,533 1,557 1,589 1,624 1,633 1,659 1,677 1,681 1,704 1,707 1,715 1,716 1,720 1}
+{0 1,8 1,21 1,26 1,27 1,58 1,82 1,90 1,99 1,116 1,120 1,126 1,127 1,144 1,148 1,225 1,238 1,265 1,285 1,286 1,305 1,318 1,333 1,338 1,339 1,355 1,377 1,395 1,407 1,416 1,434 1,459 1,474 1,529 1,548 1,590 1,645 1,697 1,725 1,735 1}
+{1 1,6 1,20 1,36 1,58 1,70 1,75 1,77 1,116 1,120 1,126 1,129 1,134 1,149 1,174 1,200 1,213 1,228 1,237 1,241 1,265 1,285 1,313 1,318 1,319 1,337 1,338 1,359 1,366 1,400 1,416 1,427 1,451 1,476 1,498 1,509 1,533 1,555 1,572 1,582 1,596 1,623 1,633 1,702 1,704 1,707 1,715 1,716 1}
+{0 1,56 1,58 1,72 1,88 1,90 1,101 1,114 1,120 1,138 1,149 1,180 1,185 1,234 1,237 1,253 1,265 1,300 1,302 1,303 1,310 1,318 1,338 1,348 1,359 1,366 1,377 1,407 1,455 1,458 1,468 1,509 1,557 1,575 1,589 1,600 1,633 1,643 1,694 1,704 1,715 1,727 1,730 1,735 1}
+{1 1,6 1,55 1,57 1,70 1,73 1,75 1,99 1,119 1,120 1,123 1,138 1,148 1,185 1,188 1,213 1,241 1,265 1,271 1,285 1,303 1,318 1,319 1,359 1,381 1,387 1,402 1,404 1,413 1,416 1,514 1,557 1,561 1,589 1,623 1,666 1,697 1,704 1,707 1,710 1,713 1,715 1,728 1}
+{0 1,6 1,10 1,21 1,46 1,59 1,73 1,97 1,123 1,129 1,138 1,148 1,161 1,188 1,236 1,257 1,264 1,265 1,285 1,306 1,318 1,319 1,332 1,340 1,349 1,355 1,377 1,405 1,416 1,450 1,484 1,501 1,513 1,552 1,623 1,630 1,645 1,658 1,681 1,697 1}
+{1 1,40 1,57 1,70 1,102 1,119 1,123 1,141 1,185 1,188 1,189 1,218 1,222 1,231 1,238 1,253 1,264 1,265 1,277 1,285 1,286 1,288 1,302 1,318 1,325 1,337 1,359 1,363 1,369 1,387 1,407 1,416 1,420 1,433 1,441 1,472 1,513 1,533 1,589 1,600 1,603 1,604 1,621 1,623 1,630 1,645 1,674 1,681 1,697 1,699 1,710 1,728 1}
+{0 1,34 1,45 1,90 1,97 1,99 1,118 1,119 1,123 1,131 1,138 1,148 1,224 1,253 1,265 1,283 1,285 1,288 1,318 1,322 1,332 1,338 1,344 1,348 1,359 1,360 1,363 1,377 1,407 1,416 1,420 1,449 1,484 1,495 1,570 1,590 1,623 1,645 1,656 1,659 1,697 1,704 1,710 1}
+{1 1,6 1,21 1,25 1,34 1,58 1,59 1,97 1,99 1,112 1,114 1,189 1,218 1,223 1,265 1,285 1,310 1,317 1,318 1,319 1,344 1,359 1,402 1,416 1,418 1,434 1,484 1,490 1,503 1,552 1,604 1,645 1,654 1,663 1,672 1,697 1,707 1}
+{0 1,6 1,15 1,20 1,56 1,99 1,122 1,144 1,151 1,242 1,265 1,283 1,318 1,322 1,338 1,339 1,348 1,349 1,360 1,377 1,395 1,404 1,427 1,484 1,491 1,513 1,570 1,574 1,601 1,645 1,659 1,666 1}
+{1 1,20 1,38 1,51 1,58 1,70 1,75 1,120 1,123 1,126 1,138 1,151 1,185 1,188 1,210 1,212 1,234 1,241 1,265 1,285 1,318 1,319 1,338 1,344 1,348 1,359 1,399 1,416 1,423 1,481 1,491 1,589 1,633 1,654 1,663 1,697 1,707 1,728 1}
+{1 1,6 1,56 1,70 1,90 1,97 1,119 1,129 1,133 1,188 1,218 1,237 1,264 1,265 1,287 1,288 1,366 1,369 1,397 1,416 1,423 1,424 1,441 1,446 1,481 1,512 1,515 1,552 1,589 1,608 1,623 1,633 1,658 1,697 1,708 1,710 1}
+{0 1,2 1,6 1,18 1,20 1,38 1,58 1,70 1,90 1,95 1,97 1,102 1,119 1,120 1,123 1,138 1,188 1,211 1,235 1,237 1,239 1,264 1,285 1,294 1,298 1,310 1,315 1,333 1,338 1,344 1,355 1,359 1,363 1,367 1,389 1,391 1,402 1,423 1,433 1,434 1,462 1,475 1,512 1,531 1,555 1,572 1,587 1,622 1,630 1,659 1,660 1,669 1,697 1,710 1,728 1}
+{0 1,9 1,18 1,20 1,34 1,55 1,73 1,85 1,147 1,158 1,169 1,187 1,234 1,237 1,241 1,271 1,285 1,303 1,318 1,344 1,399 1,403 1,407 1,416 1,421 1,427 1,433 1,445 1,509 1,590 1,623 1,633 1,672 1,697 1}
+{0 1,10 1,13 1,20 1,58 1,70 1,89 1,90 1,97 1,116 1,120 1,138 1,142 1,158 1,161 1,185 1,234 1,241 1,250 1,265 1,285 1,318 1,329 1,336 1,338 1,342 1,359 1,369 1,377 1,407 1,416 1,421 1,439 1,500 1,512 1,552 1,562 1,574 1,606 1,623 1,645 1,656 1,735 1}
+{0 1,20 1,73 1,85 1,97 1,102 1,114 1,120 1,187 1,188 1,225 1,237 1,241 1,272 1,283 1,288 1,302 1,304 1,318 1,338 1,339 1,344 1,356 1,377 1,390 1,416 1,424 1,427 1,481 1,521 1,525 1,549 1,589 1,623 1,633 1,654 1,666 1,697 1}
+{0 1,15 1,38 1,45 1,70 1,77 1,120 1,123 1,131 1,151 1,185 1,188 1,213 1,234 1,241 1,283 1,285 1,318 1,338 1,339 1,343 1,344 1,349 1,359 1,377 1,405 1,407 1,416 1,423 1,450 1,476 1,505 1,513 1,549 1,564 1,600 1,624 1,633 1,655 1,666 1,697 1,704 1,708 1}
+{0 1,20 1,38 1,60 1,70 1,97 1,174 1,188 1,234 1,237 1,241 1,265 1,285 1,304 1,315 1,318 1,332 1,333 1,338 1,361 1,363 1,369 1,377 1,395 1,416 1,434 1,484 1,521 1,590 1,605 1,633 1,657 1,663 1,681 1,697 1,708 1,710 1}
+{1 1,18 1,72 1,73 1,89 1,97 1,112 1,120 1,123 1,145 1,148 1,161 1,185 1,188 1,202 1,207 1,218 1,234 1,236 1,253 1,256 1,285 1,298 1,303 1,319 1,325 1,337 1,348 1,355 1,359 1,363 1,366 1,368 1,390 1,392 1,405 1,407 1,416 1,435 1,476 1,521 1,525 1,541 1,549 1,561 1,589 1,623 1,659 1,674 1,681 1,684 1,697 1,699 1,704 1,707 1,710 1,716 1,728 1}
+{0 1,20 1,49 1,75 1,85 1,97 1,99 1,100 1,102 1,120 1,123 1,188 1,218 1,221 1,237 1,265 1,285 1,288 1,318 1,322 1,332 1,344 1,348 1,363 1,377 1,416 1,420 1,432 1,451 1,481 1,515 1,589 1,600 1,623 1,645 1,652 1,659 1,663 1,681 1,697 1,704 1,735 1}
+{0 1,20 1,38 1,40 1,58 1,94 1,97 1,138 1,168 1,188 1,222 1,234 1,237 1,241 1,265 1,285 1,303 1,318 1,338 1,340 1,344 1,348 1,353 1,356 1,359 1,377 1,404 1,416 1,433 1,442 1,445 1,481 1,484 1,498 1,521 1,533 1,546 1,589 1,596 1,608 1,609 1,624 1,645 1,660 1,697 1,704 1,719 1,735 1}
+{0 1,6 1,10 1,40 1,58 1,73 1,75 1,97 1,123 1,134 1,138 1,188 1,195 1,218 1,227 1,234 1,237 1,241 1,265 1,285 1,303 1,318 1,338 1,340 1,343 1,344 1,359 1,404 1,420 1,424 1,484 1,509 1,626 1,645 1,655 1,659 1,682 1,697 1,707 1,735 1}
+{0 1,18 1,20 1,38 1,58 1,63 1,70 1,72 1,75 1,78 1,89 1,96 1,97 1,123 1,138 1,149 1,185 1,188 1,223 1,237 1,241 1,265 1,271 1,285 1,296 1,337 1,344 1,359 1,363 1,367 1,369 1,377 1,390 1,405 1,407 1,416 1,420 1,423 1,424 1,445 1,450 1,481 1,516 1,530 1,603 1,604 1,608 1,624 1,629 1,633 1,659 1,663 1,696 1,697 1,708 1,735 1}
